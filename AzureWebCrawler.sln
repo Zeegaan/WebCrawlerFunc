@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureWebCrawler", "AzureWebCrawler\AzureWebCrawler.csproj", "{48F70635-E819-4348-940E-BC56FB13EACF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCrawler", "Webcrawlerproj\WebCrawler\WebCrawler.csproj", "{0484AD73-7834-4AE3-8C2A-FC6D20430D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F70635-E819-4348-940E-BC56FB13EACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F70635-E819-4348-940E-BC56FB13EACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F70635-E819-4348-940E-BC56FB13EACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F70635-E819-4348-940E-BC56FB13EACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0484AD73-7834-4AE3-8C2A-FC6D20430D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0484AD73-7834-4AE3-8C2A-FC6D20430D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0484AD73-7834-4AE3-8C2A-FC6D20430D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0484AD73-7834-4AE3-8C2A-FC6D20430D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5533E1E2-DA8A-4DBC-AFBB-72BE087F9988}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,572 @@
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /om-klinikken/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /kontakt/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /cookie-og-privatlivspolitik/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /henvisning/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /patientvejledninger/blokadeanlaeggelse/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /patientvejledninger/dupuytren-s-kontraktur/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /patientvejledninger/ganglion/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /patientvejledninger/golfalbue/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /patientvejledninger/haelspore-syndromet/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /patientvejledninger/karpaltunnelsyndrom/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /patientvejledninger/mortons-neurom/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /patientvejledninger/nedgroet-negl/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /patientvejledninger/springfinger/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /patientvejledninger/tennisalbue/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /ansatte/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/areknuder/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/knae/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/fod/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/hand/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/gigtlidelser/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/knae/knaeskalssmerter/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/knae/springerknae/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/knae/runner-knee/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/knae/bakers-cyste/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/knae/osgood-schlatter/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/knae/knaeledsmus/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/knae/artroskopi/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/knae/slimsaek-ved-knaeskallen/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/knae/skinnebensbetaendelse/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/fod/knyst/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/fod/haelsmerte/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/fod/mortons-neuom/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/fod/ligtorn/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/fod/hammerta/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/fod/fodvorter/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/fod/ungvis-incarnatus/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/fod/skraedderknyst/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/fod/pedis-plani/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/fod/transversoplani/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/hand/mb-dequervain/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/hand/carpal-tunnel-syndrom/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/hand/seneknude/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/hand/slidgigt-i-tommelfingeren/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/hand/springfinger/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/hand/golfalbue/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/hand/dupuytrens-contractur/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/hand/leddegigtskirurgi/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/hand/tennisalbue/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /operationer/hand/slidgigt-i-fingerled/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /kontakt
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /media/wbbd4cdp/jan-beck-mikkelsen.jpg
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /ansatte/jan-beck-mikkelsen/
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /media/fvihs4gd/tilsynsrapport-2014.pdf
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /media/hwfgwgl5/behanding_af_personoplysninger.pdf
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /scripts/jquery-1.11.3.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /scripts/jquery.unobtrusive-ajax.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /scripts/jquery.validate.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /scripts/jquery.validate.unobtrusive.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /scripts/jquery.placeholder.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /scripts/jquery.colorbox.js
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /scripts/main.js
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /scripts/jquery.mobilemenu.js
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /scripts/jquery.cookie.js
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /scripts/jquery.ba-throttle-debounce.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /scripts/jquery.cookiecuttr.js
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /App_Plugins/UmbracoForms/Assets/Themes/Default/umbracoforms.js
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /media/2rpiiosy/favicon.png
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /css/bootstrap.css
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /css/colorbox.css
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /css/main.css
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /css/cookiecuttr.css
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /app_plugins/umbracoforms/assets/defaultform.css
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /media/qdjogctz/logo.png
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /media/lo4n2nbs/sliderimage1.png
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /media/yfgjptgu/medicalsymbol.png
+dbug: WebCrawlerTest.Tests[0]
+      Added link to visit queue: /media/anrin1h4/ddkm_akkrediteret.png
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/om-klinikken/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/om-klinikken/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/om-klinikken/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/om-klinikken/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/kontakt/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/kontakt/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/kontakt/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/kontakt/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/cookie-og-privatlivspolitik/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/cookie-og-privatlivspolitik/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/cookie-og-privatlivspolitik/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/cookie-og-privatlivspolitik/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/henvisning/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/henvisning/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/henvisning/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/henvisning/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/blokadeanlaeggelse/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/blokadeanlaeggelse/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/blokadeanlaeggelse/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/blokadeanlaeggelse/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/dupuytren-s-kontraktur/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/dupuytren-s-kontraktur/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/dupuytren-s-kontraktur/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/dupuytren-s-kontraktur/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/ganglion/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/ganglion/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/ganglion/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/ganglion/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/golfalbue/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/golfalbue/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/golfalbue/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/golfalbue/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/haelspore-syndromet/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/haelspore-syndromet/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/haelspore-syndromet/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/haelspore-syndromet/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/karpaltunnelsyndrom/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/karpaltunnelsyndrom/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/karpaltunnelsyndrom/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/karpaltunnelsyndrom/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/mortons-neurom/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/mortons-neurom/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/mortons-neurom/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/mortons-neurom/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/nedgroet-negl/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/nedgroet-negl/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/nedgroet-negl/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/nedgroet-negl/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/springfinger/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/springfinger/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/springfinger/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/springfinger/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/tennisalbue/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/tennisalbue/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/patientvejledninger/tennisalbue/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/patientvejledninger/tennisalbue/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/ansatte/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/ansatte/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/ansatte/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/ansatte/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/areknuder/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/areknuder/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/areknuder/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/areknuder/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/gigtlidelser/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/gigtlidelser/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/gigtlidelser/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/gigtlidelser/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/knaeskalssmerter/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/knaeskalssmerter/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/knaeskalssmerter/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/knaeskalssmerter/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/springerknae/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/springerknae/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/springerknae/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/springerknae/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/runner-knee/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/runner-knee/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/runner-knee/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/runner-knee/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/bakers-cyste/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/bakers-cyste/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/bakers-cyste/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/bakers-cyste/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/osgood-schlatter/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/osgood-schlatter/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/osgood-schlatter/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/osgood-schlatter/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/knaeledsmus/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/knaeledsmus/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/knaeledsmus/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/knaeledsmus/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/artroskopi/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/artroskopi/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/artroskopi/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/artroskopi/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/slimsaek-ved-knaeskallen/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/slimsaek-ved-knaeskallen/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/slimsaek-ved-knaeskallen/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/slimsaek-ved-knaeskallen/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/skinnebensbetaendelse/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/skinnebensbetaendelse/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/knae/skinnebensbetaendelse/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/knae/skinnebensbetaendelse/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/knyst/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/knyst/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/knyst/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/knyst/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/haelsmerte/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/haelsmerte/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/haelsmerte/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/haelsmerte/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/mortons-neuom/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/mortons-neuom/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/mortons-neuom/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/mortons-neuom/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/ligtorn/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/ligtorn/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/ligtorn/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/ligtorn/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/hammerta/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/hammerta/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/hammerta/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/hammerta/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/fodvorter/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/fodvorter/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/fodvorter/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/fodvorter/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/ungvis-incarnatus/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/ungvis-incarnatus/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/ungvis-incarnatus/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/ungvis-incarnatus/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/skraedderknyst/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/skraedderknyst/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/skraedderknyst/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/skraedderknyst/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/pedis-plani/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/pedis-plani/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/pedis-plani/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/pedis-plani/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/transversoplani/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/transversoplani/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/fod/transversoplani/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/fod/transversoplani/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/mb-dequervain/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/mb-dequervain/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/mb-dequervain/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/mb-dequervain/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/carpal-tunnel-syndrom/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/carpal-tunnel-syndrom/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/carpal-tunnel-syndrom/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/carpal-tunnel-syndrom/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/seneknude/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/seneknude/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/seneknude/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/seneknude/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/slidgigt-i-tommelfingeren/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/slidgigt-i-tommelfingeren/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/slidgigt-i-tommelfingeren/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/slidgigt-i-tommelfingeren/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/springfinger/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/springfinger/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/springfinger/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/springfinger/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/golfalbue/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/golfalbue/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/golfalbue/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/golfalbue/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/dupuytrens-contractur/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/dupuytrens-contractur/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/dupuytrens-contractur/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/dupuytrens-contractur/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/leddegigtskirurgi/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/leddegigtskirurgi/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/leddegigtskirurgi/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/leddegigtskirurgi/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/tennisalbue/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/tennisalbue/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/tennisalbue/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/tennisalbue/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/slidgigt-i-fingerled/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/slidgigt-i-fingerled/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/operationer/hand/slidgigt-i-fingerled/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/operationer/hand/slidgigt-i-fingerled/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/kontakt
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/kontakt
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/kontakt & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/kontakt did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/media/wbbd4cdp/jan-beck-mikkelsen.jpg
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/media/wbbd4cdp/jan-beck-mikkelsen.jpg
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/ansatte/jan-beck-mikkelsen/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/ansatte/jan-beck-mikkelsen/
+fail: WebCrawlerTest.Tests[0]
+      http://xn--klinikforortopdkirurgi-p6b.dk/ansatte/jan-beck-mikkelsen/ & https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/ansatte/jan-beck-mikkelsen/ did not match
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/media/fvihs4gd/tilsynsrapport-2014.pdf
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/media/fvihs4gd/tilsynsrapport-2014.pdf
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/media/hwfgwgl5/behanding_af_personoplysninger.pdf
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/media/hwfgwgl5/behanding_af_personoplysninger.pdf
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/scripts/jquery-1.11.3.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/scripts/jquery-1.11.3.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/scripts/jquery.unobtrusive-ajax.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/scripts/jquery.unobtrusive-ajax.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/scripts/jquery.validate.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/scripts/jquery.validate.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/scripts/jquery.validate.unobtrusive.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/scripts/jquery.validate.unobtrusive.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/scripts/jquery.placeholder.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/scripts/jquery.placeholder.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/scripts/jquery.colorbox.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/scripts/jquery.colorbox.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/scripts/main.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/scripts/main.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/scripts/jquery.mobilemenu.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/scripts/jquery.mobilemenu.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/scripts/jquery.cookie.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/scripts/jquery.cookie.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/scripts/jquery.ba-throttle-debounce.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/scripts/jquery.ba-throttle-debounce.min.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/scripts/jquery.cookiecuttr.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/scripts/jquery.cookiecuttr.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/App_Plugins/UmbracoForms/Assets/Themes/Default/umbracoforms.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/App_Plugins/UmbracoForms/Assets/Themes/Default/umbracoforms.js
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/media/2rpiiosy/favicon.png
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/media/2rpiiosy/favicon.png
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/css/bootstrap.css
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/css/bootstrap.css
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/css/colorbox.css
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/css/colorbox.css
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/css/main.css
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/css/main.css
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/css/cookiecuttr.css
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/css/cookiecuttr.css
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/app_plugins/umbracoforms/assets/defaultform.css
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/app_plugins/umbracoforms/assets/defaultform.css
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/media/qdjogctz/logo.png
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/media/qdjogctz/logo.png
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/media/lo4n2nbs/sliderimage1.png
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/media/lo4n2nbs/sliderimage1.png
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/media/yfgjptgu/medicalsymbol.png
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/media/yfgjptgu/medicalsymbol.png
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/media/anrin1h4/ddkm_akkrediteret.png
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: https://dev-klinik-for-ortopaedkirurgi.s1.umbraco.io/media/anrin1h4/ddkm_akkrediteret.png

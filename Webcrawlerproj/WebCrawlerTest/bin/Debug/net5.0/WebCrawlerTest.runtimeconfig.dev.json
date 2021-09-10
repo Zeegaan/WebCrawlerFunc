@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Umbraco\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Umbraco\\.nuget\\packages"
+    ]
+  }
+}
