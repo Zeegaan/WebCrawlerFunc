@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ME8xau9po12Lpw+s9d7Qv1Bd2Remi17ao805bq4r0AnilLHCt45RTWVp0ZCc4exsF5VgfoXD7gpvZHooYxZDNQ==",
+  "dgSpecHash": "UpQuSOJt038Soju0LRvlCmq72Xcb21gVOU4TYe16s/HDr2pvpDmzc9ou5LUpOo3f7/Jiumb3iCVlZV3tYdFSvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Umbraco\\Documents\\WebcrawlerGithub\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj",
+  "projectFilePath": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Umbraco\\.nuget\\packages\\htmlagilitypack\\1.11.36\\htmlagilitypack.1.11.36.nupkg.sha512",
     "C:\\Users\\Umbraco\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"

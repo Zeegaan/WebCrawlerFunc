@@ -48,7 +48,6 @@ namespace AzureWebCrawler
         private static HttpResponseData CreateResponse(HttpRequestData req, string name = "", IDictionary<string, IEnumerable<string>> defaultRequestHeaders = null)
         {
             var response = req.CreateResponse(HttpStatusCode.NoContent);
-            response.WriteString($"Did the sites match? True/False: {name}");
             return response;
         }
         private static HttpResponseData CreateErrorResponse(HttpRequestData req, string error, HttpStatusCode status = HttpStatusCode.BadRequest)

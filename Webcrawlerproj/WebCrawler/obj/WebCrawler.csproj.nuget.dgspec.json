@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Umbraco\\Documents\\WebcrawlerGithub\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj": {}
+    "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Umbraco\\Documents\\WebcrawlerGithub\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj": {
+    "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Umbraco\\Documents\\WebcrawlerGithub\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj",
+        "projectUniqueName": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj",
         "projectName": "WebCrawler",
-        "projectPath": "C:\\Users\\Umbraco\\Documents\\WebcrawlerGithub\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj",
+        "projectPath": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj",
         "packagesPath": "C:\\Users\\Umbraco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Umbraco\\Documents\\WebcrawlerGithub\\Webcrawlerproj\\WebCrawler\\obj\\",
+        "outputPath": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Umbraco\\AppData\\Roaming\\NuGet\\NuGet.Config",
