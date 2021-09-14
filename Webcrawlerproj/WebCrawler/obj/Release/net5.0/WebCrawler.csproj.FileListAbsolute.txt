@@ -10,3 +10,15 @@ C:\Users\Umbraco\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\obj\R
 C:\Users\Umbraco\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\obj\Release\net5.0\ref\WebCrawler.dll
 C:\Users\Umbraco\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\obj\Release\net5.0\WebCrawler.pdb
 C:\Users\Umbraco\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\obj\Release\net5.0\WebCrawler.csproj.AssemblyReference.cache
+C:\Users\ng1\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\bin\Release\net5.0\WebCrawler.deps.json
+C:\Users\ng1\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\bin\Release\net5.0\WebCrawler.dll
+C:\Users\ng1\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\bin\Release\net5.0\ref\WebCrawler.dll
+C:\Users\ng1\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\bin\Release\net5.0\WebCrawler.pdb
+C:\Users\ng1\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\obj\Release\net5.0\WebCrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ng1\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\obj\Release\net5.0\WebCrawler.AssemblyInfoInputs.cache
+C:\Users\ng1\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\obj\Release\net5.0\WebCrawler.AssemblyInfo.cs
+C:\Users\ng1\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\obj\Release\net5.0\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\ng1\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\obj\Release\net5.0\WebCrawler.dll
+C:\Users\ng1\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\obj\Release\net5.0\ref\WebCrawler.dll
+C:\Users\ng1\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\obj\Release\net5.0\WebCrawler.pdb
+C:\Users\ng1\Documents\GitHub\WebCrawlerFunc\Webcrawlerproj\WebCrawler\obj\Release\net5.0\WebCrawler.csproj.AssemblyReference.cache

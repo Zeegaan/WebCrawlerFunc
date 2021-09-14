@@ -1,0 +1,2692 @@
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/
+dbug: WebCrawlerTest.Tests[0]
+      Visited site: http://xn--klinikforortopdkirurgi-p6b.dk/ansatte
+trce: WebCrawlerTest.Tests[0]
+      Comparing 
+      
+      <!DOCTYPE html>
+      <html>
+      <head>
+          <meta charset="utf-8">
+          <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+          <meta name="viewport" content="width=320, initial-scale=0.75, minimum-scale=0.75, maximum-scale=1.0">
+      
+          <link rel="icon" type="image/png" href="/media/2rpiiosy/favicon.png">
+      
+          <link href="/css/bootstrap.css" rel="stylesheet">
+          <link href="/css/colorbox.css" rel="stylesheet">
+          <link href="/css/main.css" rel="stylesheet">
+          <link href="/css/cookiecuttr.css" rel="stylesheet">
+      
+          <script src="/scripts/jquery-1.11.3.min.js"></script>
+          <script src="/scripts/jquery.unobtrusive-ajax.min.js"></script>
+          <script src="/scripts/jquery.validate.min.js"></script>
+          <script src="/scripts/jquery.validate.unobtrusive.min.js"></script>
+          <script src="/scripts/jquery.placeholder.min.js"></script>
+          <script src="/scripts/jquery.colorbox.js"></script>
+          <script src="/scripts/main.js"></script>
+          <script src="/scripts/jquery.mobilemenu.js"></script>
+          <script src="/scripts/jquery.cookie.js"></script>
+          <script src="/scripts/jquery.ba-throttle-debounce.min.js"></script>
+          <script src="/scripts/jquery.cookiecuttr.js"></script>
+      
+      
+          <title>Forside - Klinik for Ortop&#230;dkirurgi ved Jan Beck Mikkelsen</title>
+          <meta name="description" content="Klinik for Ortop&#230;dkirurgi ved Jan Beck Mikkelsen beliggende i L&#230;gehuset Sankt Anne i Odense Centrum.">
+      
+      </head>
+      <body>
+      <header>
+          <section class="row center">
+              <section class="span25">
+                  <section class="left pull-left span6">
+                      <figure id="logo">
+                          <a href="/" title="Klinik for Ortopædkirurgi">
+      
+                              <img src="/media/qdjogctz/logo.png" alt="Klinik For Ortop&#230;dkirurgi">
+      
+      
+                          </a>
+                      </figure>
+                  </section>
+                  <section class="right pull-right span18">
+                      <section class="letterPressed pull-right">
+                          <span class="left"></span>
+                          <div class="middle">Telefonnummer: 66 13 41 42</div>
+                          <span class="right"></span>
+                      </section>
+                      <section class="info pull-right">
+      
+      
+                          <ul>
+                                  <li>
+                                      <a href="/om-klinikken/" title="Om klinikken">
+                                          <span class="left"></span><span class="middle">Om klinikken</span><span class="right"></span>
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="/kontakt/" title="Kontakt">
+                                          <span class="left"></span><span class="middle">Kontakt</span><span class="right"></span>
+                                      </a>
+                                  </li>
+      
+                          </ul>
+      
+                      </section>
+      
+                  </section>
+              </section>
+          </section>
+      </header>
+      <nav id="mainNav">
+      <section class="row center">
+      <section class="span25">
+      
+      <ul class="pull-left span19 hidden-phone nav">
+          
+      		<li class="active">
+      		    
+      		        <a href="/" title="Forside">Forside</a>
+      		    
+      		        <div class="dropdown clearfix">
+      		            <ul class="dropdown-menu">
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/cookie-og-privatlivspolitik/" title="Cookie og privatlivspolitik">Cookie og privatlivspolitik</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/henvisning/" title="Henvisning">Henvisning</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Patientvejledninger">Patientvejledninger</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/blokadeanlaeggelse/" title="Blokadeanl&#230;ggelse">Blokadeanl&#230;ggelse</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/dupuytren-s-kontraktur/" title="Dupuytren’s kontraktur">Dupuytren’s kontraktur</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/ganglion/" title="Ganglion">Ganglion</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/golfalbue/" title="Golfalbue">Golfalbue</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/haelspore-syndromet/" title="H&#230;lspore-syndromet">H&#230;lspore-syndromet</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/karpaltunnelsyndrom/" title="Karpaltunnelsyndrom">Karpaltunnelsyndrom</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/mortons-neurom/" title="Mortons Neurom">Mortons Neurom</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/nedgroet-negl/" title="Nedgroet negl">Nedgroet negl</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/" title="Seneskedebet&#230;ndelse ved tommelfingeren">Seneskedebet&#230;ndelse ved tommelfingeren</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/springfinger/" title="Springfinger">Springfinger</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/tennisalbue/" title="Tennisalbue">Tennisalbue</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/om-klinikken/" title="Om klinikken">Om klinikken</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/kontakt/" title="Kontakt">Kontakt</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/ansatte/" title="Ansatte">Ansatte</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Operationer">Operationer</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/areknuder/" title="&#197;reknuder">&#197;reknuder</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/" title="Kn&#230;">Kn&#230;</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/" title="Fod">Fod</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/" title="Hand">Hand</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/gigtlidelser/" title="Gigtlidelser">Gigtlidelser</a></li>
+                                            </ul>
+                          		    </li>
+                        </ul>
+      		        </div>
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="/henvisning/" title="Henvisning">Henvisning</a>
+      		    
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="#" title="Patientvejledninger">Patientvejledninger</a>
+      		    
+      		        <div class="dropdown clearfix">
+      		            <ul class="dropdown-menu">
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/blokadeanlaeggelse/" title="Blokadeanl&#230;ggelse">Blokadeanl&#230;ggelse</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/dupuytren-s-kontraktur/" title="Dupuytren’s kontraktur">Dupuytren’s kontraktur</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/ganglion/" title="Ganglion">Ganglion</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/golfalbue/" title="Golfalbue">Golfalbue</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/haelspore-syndromet/" title="H&#230;lspore-syndromet">H&#230;lspore-syndromet</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/karpaltunnelsyndrom/" title="Karpaltunnelsyndrom">Karpaltunnelsyndrom</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/mortons-neurom/" title="Mortons Neurom">Mortons Neurom</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/nedgroet-negl/" title="Nedgroet negl">Nedgroet negl</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/" title="Seneskedebet&#230;ndelse ved tommelfingeren">Seneskedebet&#230;ndelse ved tommelfingeren</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/springfinger/" title="Springfinger">Springfinger</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/tennisalbue/" title="Tennisalbue">Tennisalbue</a>
+      		                	    
+      		                	 
+                          		    </li>
+                        </ul>
+      		        </div>
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="/ansatte/" title="Ansatte">Ansatte</a>
+      		    
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="#" title="Operationer">Operationer</a>
+      		    
+      		        <div class="dropdown clearfix">
+      		            <ul class="dropdown-menu">
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/operationer/areknuder/" title="&#197;reknuder">&#197;reknuder</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/operationer/knae/" title="Kn&#230;">Kn&#230;</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/knaeskalssmerter/" title="Kn&#230;skalssmerter">Kn&#230;skalssmerter</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/springerknae/" title="Springerkn&#230;">Springerkn&#230;</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/runner-knee/" title="Runner knee">Runner knee</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/bakers-cyste/" title="Bakers Cyste">Bakers Cyste</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/osgood-schlatter/" title="Osgood-Schlatter">Osgood-Schlatter</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/knaeledsmus/" title="Kn&#230;ledsmus">Kn&#230;ledsmus</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/artroskopi/" title="Artroskopi">Artroskopi</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/slimsaek-ved-knaeskallen/" title="Slims&#230;k ved kn&#230;skallen">Slims&#230;k ved kn&#230;skallen</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/skinnebensbetaendelse/" title="Skinnebensbet&#230;ndelse">Skinnebensbet&#230;ndelse</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Fod">Fod</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/knyst/" title="Knyst">Knyst</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/haelsmerte/" title="H&#230;lsmerte">H&#230;lsmerte</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/mortons-neuom/" title="Mortons neuom">Mortons neuom</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/ligtorn/" title="Ligtorn">Ligtorn</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/hammerta/" title="Hammert&#229;">Hammert&#229;</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/fodvorter/" title="Fodvorter">Fodvorter</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/ungvis-incarnatus/" title="Ungvis incarnatus">Ungvis incarnatus</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/skraedderknyst/" title="Skr&#230;dderknyst">Skr&#230;dderknyst</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/pedis-plani/" title="Pedis plani">Pedis plani</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/transversoplani/" title="Transversoplani">Transversoplani</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Hand">Hand</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/mb-dequervain/" title="Mb.deQuervain">Mb.deQuervain</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/carpal-tunnel-syndrom/" title="Carpal Tunnel Syndrom">Carpal Tunnel Syndrom</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/seneknude/" title="Seneknude">Seneknude</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/slidgigt-i-tommelfingeren/" title="Slidgigt i tommelfingeren">Slidgigt i tommelfingeren</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/springfinger/" title="Springfinger">Springfinger</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/golfalbue/" title="Golfalbue">Golfalbue</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/dupuytrens-contractur/" title="Dupuytrens Contractur">Dupuytrens Contractur</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/leddegigtskirurgi/" title="Leddegigtskirurgi">Leddegigtskirurgi</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/tennisalbue/" title="Tennisalbue">Tennisalbue</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/slidgigt-i-fingerled/" title="Slidgigt i fingerled">Slidgigt i fingerled</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/operationer/gigtlidelser/" title="Gigtlidelser">Gigtlidelser</a>
+      		                	    
+      		                	 
+                          		    </li>
+                        </ul>
+      		        </div>
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="/kontakt/" title="Kontakt">Kontakt</a>
+      		    
+      		</li>
+      </ul>
+      
+      <div id="searchDiv">
+          <input type="text" name="searchString" placeholder="S&#248;g...">
+          <button>Go</button>
+          <div class="quick"></div>
+      </div>
+      
+      </section>
+      </section>
+      </nav>
+      
+      
+      
+      
+      <section id="slider" class="hidden-phone">
+          <div id="myCarousel" class="carousel slide">
+              <div class="carousel-inner">
+                  <div class="item active">
+                         <img src="/media/lo4n2nbs/sliderimage1.png" style="">
+                  </div>
+                  <div class="item">
+                     <img src="/media/lo4n2nbs/sliderimage1.png" style="">
+                  </div>
+              </div>
+          </div>
+          <section class="carouselBottom">
+              <div class="carousel-caption">
+                  <section class="row center">
+                      <div class="carousel-caption-big span25">
+                          <span class="medicalSymbol pull-left">
+                                  <img src="/media/yfgjptgu/medicalsymbol.png" alt="Rod of Asclepius">
+                                
+                          </span>
+                          <span class="medicalSymbol pull-right">
+                                  <img src="/media/yfgjptgu/medicalsymbol.png" alt="Rod of Asclepius">
+                          </span>
+                          <h1>Klinik for Ortop&#230;dkirurgi</h1>
+                          <p>Ved Jan Beck Mikkelsen.</p>
+                      </div>
+                  </section>
+              </div>
+          </section>
+      </section>
+      
+      
+      <section id="main">
+          <section class="row center">
+              <section class="span25 main-wrapper">
+                  <section class="content span16">
+                      <section class="span8 infoBox">
+                          <h2>ADRESSE</h2>
+                          <ul>
+                                  <li><a href="/kontakt" title="Kontakt"><i class="bullet"></i>Skt. Anne Plads 2-4, 4. sal</a></li>    
+                                  <li><a href="/kontakt" title="Kontakt"><i class="bullet"></i>5000 Odense C</a></li>    
+                                  <li><a href="/kontakt" title="Kontakt"><i class="bullet"></i>Tlf: 66 13 41 42</a></li>    
+                                  <li><a href="/kontakt" title="Kontakt"><i class="bullet"></i>Fax: 66 13 69 90</a></li>    
+                          </ul>
+                      </section>
+      
+                      <section class="span8 bigInfoBox">
+                          <hgroup>
+                              <h2>Telefon</h2>
+                              <h3>og konsultationstider</h3>
+                          </hgroup>
+      
+                          <p><span>Telefontider</span></p>
+<ul>
+<li>Mandag-Torsdag: 9-12 og 13-15</li>
+<li>Telefonnummer: 66 13 41 42</li>
+<li>Fax: 66 13 69 90</li>
+</ul>
+<p><span>Konsultationstider</span></p>
+<ul>
+<li>Mandag-Torsdag: Efter aftale</li>
+</ul>
+<p><span>Ferieperioder:</span></p>
+<ul>
+<li>Sommerferie: uge 29-32</li>
+<li>Efterårsferie: uge 42</li>
+<li>Juleferie : 23/12-05/01</li>
+</ul>
+      
+                      </section>
+               
+                     
+                  </section>
+      
+                  <aside class="span8">
+                      <section class="span8 infoBox">
+                          <article class="topBig" style="text-align: left">
+                              <h2>LÆGEHUSET SANKT ANNE</h2>
+                              <p>Klinikken ligger i Lægehuset Sankt Anne, som er et af Europas største lægehuse med 22 almen praktiserende læger og 12 praktiserende speciallæger som repræsenterer 9 medicinske og kirurgiske specialer.</p>
+<p>Yderligere er der 1 fysioterapeutiske klinik og en fodterapeutisk klinik i huset.</p>
+<p>Klinikken er beliggende på 4.sal med gode tilkørselforhold og elevator. Handicapparkering forefindes.</p>
+                          </article>
+                      </section>
+      
+                 
+                    
+                  </aside>
+                 
+               
+                  <div class="separator"></div>
+                  <section class="span25 main-wrapper bottomSection hidden-phone">
+                      <section class="span24 left">
+                          <h4>Vores læge</h4>
+                       
+      
+                          
+                              <section class="span24 coverFlow">
+                                  <ul style="width: 1100px;">
+                                      <li class="span24">
+                                          <a href="/media/wbbd4cdp/jan-beck-mikkelsen.jpg" data-colorbox="1">
+                                              <figure>
+                                                  <img src="/media/wbbd4cdp/jan-beck-mikkelsen.jpg" alt="Jan Beck Mikkelsen">
+                                                  <div class="overlay"></div>
+                                              </figure>
+                                          </a>
+      
+                                          <div class="info">
+                                              <p>Jan Beck Mikkelsen har v&#230;ret speciall&#230;ge i Ortop&#230;dkirurgi siden 1997, og har fungeret som overl&#230;ge p&#229; Ortop&#230;dkirurgisk afdeling, Kolding sygehus fra 2002 -11 og v&#230;ret praktiserende speciall&#230;ge fra 2008.</p>
+                                              <a href="/ansatte/jan-beck-mikkelsen/" title="Jan Beck Mikkelsen" class="customButton smallRadius pull-right" style="margin-right: 25px;">Jan Beck Mikkelsen</a>
+                                          </div>
+                                      </li>                            
+                                  </ul>
+                              </section>
+                        
+                      </section>
+                      
+                  </section>
+              </section>
+          </section>
+      </section>
+      
+      
+      <footer>
+          <section class="row center">
+              <section class="span25">
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Hurtig-Links</h2>
+                      <ul>
+                              <li>
+                                  <a href="/">
+                                      <i></i>Forside</a>
+                              </li>
+                              <li>
+                                  <a href="/henvisning/">
+                                      <i></i>Henvisning</a>
+                              </li>
+                              <li>
+                                  <a href="/ansatte/">
+                                      <i></i>Ansatte</a>
+                              </li>
+                              <li>
+                                  <a href="/kontakt/">
+                                      <i></i>Kontakt</a>
+                              </li>
+                              <li>
+                                  <a href="/cookie-og-privatlivspolitik/">
+                                      <i></i>Cookie og privatlivspolitik</a>
+                              </li>
+                      </ul>
+      
+                      <a href="https://www.ikas.dk/den-danske-kvalitetsmodel/" target="_blank">
+                          <img src="/media/anrin1h4/ddkm_akkrediteret.png" alt="Ddkm Akkrediteret">
+                      </a>
+                  </section>
+      
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Patientvejledninger</h2>
+                      <ul>
+                              <li>
+                                  <a href="/patientvejledninger/blokadeanlaeggelse/" title="Blokadeanl&#230;ggelse">
+                                      <i></i>Blokadeanl&#230;ggelse</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/dupuytren-s-kontraktur/" title="Dupuytren’s kontraktur">
+                                      <i></i>Dupuytren’s kontraktur</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/ganglion/" title="Ganglion">
+                                      <i></i>Ganglion</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/golfalbue/" title="Golfalbue">
+                                      <i></i>Golfalbue</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/haelspore-syndromet/" title="H&#230;lspore-syndromet">
+                                      <i></i>H&#230;lspore-syndromet</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/karpaltunnelsyndrom/" title="Karpaltunnelsyndrom">
+                                      <i></i>Karpaltunnelsyndrom</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/mortons-neurom/" title="Mortons Neurom">
+                                      <i></i>Mortons Neurom</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/nedgroet-negl/" title="Nedgroet negl">
+                                      <i></i>Nedgroet negl</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/" title="Seneskedebet&#230;ndelse ved tommelfingeren">
+                                      <i></i>Seneskedebet&#230;ndelse ved tommelfingeren</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/springfinger/" title="Springfinger">
+                                      <i></i>Springfinger</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/tennisalbue/" title="Tennisalbue">
+                                      <i></i>Tennisalbue</a>
+                              </li>
+                      </ul>
+                  </section>
+      
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Ekstra Information</h2>
+                      <h3>Lokalisationsnummer</h3>
+      
+                      <ul>
+                          <li>
+                              <i></i>5790000134205</li>
+                      </ul>
+                      <h3 style="padding-top: 10px;">Ydernummer</h3>
+                      <ul>
+                          <li>
+                              <i></i>244333</li>
+                      </ul>
+      
+                      <h3 style="padding-top: 10px;">Dokumenter</h3>
+                      <ul>
+                              <li>
+                                  <a target="_blank" href="/media/fvihs4gd/tilsynsrapport-2014.pdf" title="Tilsynsrapport">
+                                      <i></i>Tilsynsrapport</a>
+                              </li>
+                              <li>
+                                  <a target="_blank" href="/media/hwfgwgl5/behanding_af_personoplysninger.pdf" title="Behanding Af Personoplysninger">
+                                      <i></i>Behanding Af Personoplysninger</a>
+                              </li>
+                      </ul>
+      
+                  </section>
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Hurtig-kontakt</h2>
+                      <h3>Kontakt os via email</h3>
+      
+      
+                      <div id="umbraco_form_f1dc0db0565945a792073cf6183e8255" class="umbraco-forms-form contantform umbraco-forms-FooterContact">
+      
+      <form action="/" enctype="multipart/form-data" method="post"><input name="__RequestVerificationToken" type="hidden" value="dp4-dGJJZL1EYh-jZgSlly-gltgHpvHJJjY7vI4U4MGUFS4dCxIGQmHK5L2z25rU7LAnQRNHCnNvovFaGuAzPOafjBWaKuD1F25hI4wAb601"><input data-val="true" data-val-required="The FormId field is required." name="FormId" type="hidden" value="f1dc0db0-5659-45a7-9207-3cf6183e8255"><input name="FormName" type="hidden" value="Contant Form"><input data-val="true" data-val-required="The RecordId field is required." name="RecordId" type="hidden" value="00000000-0000-0000-0000-000000000000"><input name="PreviousClicked" type="hidden" value=""><input name="Theme" type="hidden" value="FooterContact">            <input type="hidden" name="FormStep" value="0">
+                  <input type="hidden" name="RecordState" value="RTNEQkZFODc5MkIxNzVCMjEyN0YxODkxNkMzNTk3M0NBRUJDMzE1N0UyRTVCQzE5NTVFMjhFNTRDNDVBOTdGRjU3RjAzMEY3RjBBNUUxRjEzOUU2OEY2RkEwRUQzQzg0QjIxMDBCOTA0NTRFMTU5QjMxQTI3OEEwRTlFQjNBODBGNDIyMTlCOTIyNTIzQ0VENzRGQ0Y3REY3NEE0OEJEREJGM0ZDMDREMjUxMkUyQTQwNTY1N0E4N0I1MTk1NjEzRkIyNzE2QkQ1QTI4MjM1MTcxNTVCMTY3MjRGMUExODc4OEFCN0QzOTJDMkI1RjJBMTcwNUJDMkIxQzkxQTU1MzM1MTkzODI1RUNGMzhFM0Y5NjgxMkEzNUQ1QTA3QUU4N0U2NDU3NDhFQzZDMTJFRUFBNkZFODA3MTc1RjJDNjg2RTc4NjVBQzQ0MkQ0NTdFRkQzMUVEN0I3RURGQjQxNDJFMjgzNDY3RDFFODUzRUI0OUY3NUE5NTBGRDUyMTdBQUI4Qzk1ODhGOEQ2NUNDOUZCNjc4RDM1QjdFMEVDNzZGRDVGQUZGMkIxRjMwQkY4QUM0MDBEQTVEMjg1Nzg0MDRDRjU0MkU4MTJBMERFRTg2RTE2MzVFMzJGQTNFMTVERTQ4NUYyQUIzNjE4RUVBMUQxM0RFQTgwRDI2NkU3M0E1MkMwOUI2NkQ5ODY1RTUxQTA5MUUwQjI2MUU3MUM3NzQ1QzQwOTFCQTRDN0IwREJEM0FEOEIxQzY4RkE2RkFBQTFGOTdDRDA5RDkzNDM0QTZGRjAwOUQ3RjI4RUY3QUJDRUEwRUM2RkVCMENGMERBRjIzQkQ1RkMzNDI1MjNBMjczNkZBMDdDNjVDREEyRjY0MEM2QjFFREQ5MTcyOUZGOUJBRjk0OTQ0RjAzOUQwNzVCRjg3OTZGNzhDNDBBQ0QxQzZGMEI0NzUxODdGN0ZDMDIxN0Q0Q0I5ODlFOTIyQTNFQjdENkRFRDNGOTkwNUY3OTUwOUU1MDU4NEJEOTJFQTQ0QkYyM0YzOTg0MTNCRDE0MENGNDBEMDZGOTRFOTA4MUY5ODkyREQwMjBEOUZEQTRGMDNENTUxQUIyREY4Mw==">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                      
+      
+          <input type="text" name="c800a70c-1013-4a63-9e15-cc421e83c51b" id="c800a70c-1013-4a63-9e15-cc421e83c51b" class="text blackInput span6" value="" maxlength="500" placeholder="Navn (p&#229;kr&#230;vet)" data-val="true" data-val-required="Please provide a value for Name"> 
+          <input type="text" name="5f0faf26-8bde-4b14-9bde-514e4a530409" id="5f0faf26-8bde-4b14-9bde-514e4a530409" class="text blackInput span6" value="" maxlength="500" placeholder="E-mail adresse (p&#229;kr&#230;vet)" data-val="true" data-val-required="Please provide a value for Email" data-val-regex="Please provide a valid value for Email" data-regex="[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+"> 
+          <input type="hidden" name="a03c49c5-4299-4030-d154-69485bfe9169" id="a03c49c5-4299-4030-d154-69485bfe9169" class="text" value="">
+      
+      <textarea class="form-control span6" name="5211fe85-8f5f-4d4c-a011-93ba20de5b05" id="5211fe85-8f5f-4d4c-a011-93ba20de5b05" rows="2" cols="20" placeholder="Din Besked (p&#229;kr&#230;vet)" data-val="true" data-val-required="Please provide a value for Message"></textarea>
+      
+      
+      
+          <div style="display: none">
+              <input type="text" name="f1dc0db0565945a792073cf6183e8255">
+          </div>
+      
+      		
+          <div class="umbraco-forms-navigation row-fluid">
+      		
+              <div class="col-sm-10 col-sm-offset-2">
+                      <input type="submit" class="btn btn-primary" value="Send" name="submitbtn">
+              </div>
+      
+      
+          </div>
+      
+      <input name="ufprt" type="hidden" value="EFE2F0A8C36D8DD40AA705C9A2605CCA89D43800DE5A1B38F39B65F4D854431E20BBAB49E615813AF9DA5A8B34E1F717A89EA0F0797A2867AB7E6282EBBF2CE23275E416DA27059DCF2516D8BD331D771E94183D86EEAA405E36554AA5A739FA127C95B3C10E1D6C16632C133FAB4ED34726A294F5E24C291C13C7564F3C90BA702277C4518FC983247D7558FFBCF2A5"></form>
+      
+              
+          </div>
+      
+                      <script>
+                          $("#quickContactForm").submit(function() {
+                              var $this = $(this);
+                              var $submit = $this.find("input[type=submit]");
+                              var $message = $this.find("#successMessage");
+      
+                              if ($this.valid()) {
+                                  $submit.prop("disabled", true);
+                                  $message.show();
+                                  setTimeout(function() {
+                                          $submit.prop("disabled", false);
+                                          $message.hide();
+                                      },
+                                      10000);
+      
+                                  return true;
+                              }
+      
+      
+                              return false;
+                          });
+      
+                      </script>
+                  </section>
+              </section>
+          </section>
+      </footer>
+      <section id="copyright">
+          <section class="row center">
+              <section class="span25">
+                  <p></p>
+              </section>
+          </section>
+      </section>
+      <script>
+          if (document.body.offsetWidth < 400) {
+              viewport = document.querySelector("meta[name=viewport]");
+              viewport.setAttribute('content',
+                  'width=device-width; minimum-scale=0.75, initial-scale=0.75; maximum-scale=0.75; user-scalable=0;');
+          }
+      
+          if (jQuery.cookie('cc_cookie_decline') == "cc_cookie_decline") {
+              // do nothing
+          } else {
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', 'UA-7864632-1']);
+              _gaq.push(['_trackPageview']);
+      
+              (function() {
+                  var ga = document.createElement('script');
+                  ga.type = 'text/javascript';
+                  ga.async = true;
+                  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') +
+                      '.google-analytics.com/ga.js';
+                  var s = document.getElementsByTagName('script')[0];
+                  s.parentNode.insertBefore(ga, s);
+              })();
+          }
+      
+      
+      </script>
+      
+      <script type="text/javascript">
+          var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+          document.write(unescape("%3Cscript src='" +
+              gaJsHost +
+              "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type="text/javascript">
+          try {
+              var pageTracker = _gat._getTracker("UA-7864632-1");
+              pageTracker._trackPageview();
+          } catch (err) {
+          }
+      
+          $.cookieCuttr({
+              cookieMessage:
+                  'Websitet anvender cookies til at huske dine indstillinger og statistik. L&#230;s mere om vores <a href="{{cookiePolicyLink}}" title="Cookie og privatlivspolitik">Cookie og privatlivspolitik</a>.',
+              cookiePolicyLink: '/cookie-og-privatlivspolitik/',
+              cookieAcceptButtonText: 'Accepter og skjul denne besked.',
+              cookieDeclineButton: false,
+              cookieNotificationLocationBottom: true,
+              cookieAnalytics: false
+          });
+      </script>
+      
+      
+      
+      <script type="application/javascript">
+          if (typeof umbracoFormsCollection === 'undefined') var umbracoFormsCollection = [];
+          umbracoFormsCollection.push("%7B%22formId%22:%22f1dc0db0565945a792073cf6183e8255%22,%22fieldSetConditions%22:%7B%7D,%22fieldConditions%22:%7B%7D,%22recordValues%22:%7B%7D%7D");
+      </script>
+      
+      
+      <script type='application/javascript' src='/App_Plugins/UmbracoForms/Assets/Themes/Default/umbracoforms.js' defer='defer' type='application/javascript'></script><link rel='stylesheet' href='/app_plugins/umbracoforms/assets/defaultform.css'>
+      </body>
+      </html> with 
+      
+      <!DOCTYPE html>
+      <html>
+      <head>
+          <meta charset="utf-8">
+          <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+          <meta name="viewport" content="width=320, initial-scale=0.75, minimum-scale=0.75, maximum-scale=1.0">
+      
+          <link rel="icon" type="image/png" href="/media/2rpiiosy/favicon.png">
+      
+          <link href="/css/bootstrap.css" rel="stylesheet">
+          <link href="/css/colorbox.css" rel="stylesheet">
+          <link href="/css/main.css" rel="stylesheet">
+          <link href="/css/cookiecuttr.css" rel="stylesheet">
+      
+          <script src="/scripts/jquery-1.11.3.min.js"></script>
+          <script src="/scripts/jquery.unobtrusive-ajax.min.js"></script>
+          <script src="/scripts/jquery.validate.min.js"></script>
+          <script src="/scripts/jquery.validate.unobtrusive.min.js"></script>
+          <script src="/scripts/jquery.placeholder.min.js"></script>
+          <script src="/scripts/jquery.colorbox.js"></script>
+          <script src="/scripts/main.js"></script>
+          <script src="/scripts/jquery.mobilemenu.js"></script>
+          <script src="/scripts/jquery.cookie.js"></script>
+          <script src="/scripts/jquery.ba-throttle-debounce.min.js"></script>
+          <script src="/scripts/jquery.cookiecuttr.js"></script>
+      
+      
+          <title>Ansatte - Klinik for Ortop&#230;dkirurgi ved Jan Beck Mikkelsen</title>
+          <meta name="description" content="Klinik for Ortop&#230;dkirurgi ved Jan Beck Mikkelsen beliggende i L&#230;gehuset Sankt Anne i Odense Centrum.">
+      
+      </head>
+      <body>
+      <header>
+          <section class="row center">
+              <section class="span25">
+                  <section class="left pull-left span6">
+                      <figure id="logo">
+                          <a href="/" title="Klinik for Ortopædkirurgi">
+      
+                              <img src="/media/qdjogctz/logo.png" alt="Klinik For Ortop&#230;dkirurgi">
+      
+      
+                          </a>
+                      </figure>
+                  </section>
+                  <section class="right pull-right span18">
+                      <section class="letterPressed pull-right">
+                          <span class="left"></span>
+                          <div class="middle">Telefonnummer: 66 13 41 42</div>
+                          <span class="right"></span>
+                      </section>
+                      <section class="info pull-right">
+      
+      
+                          <ul>
+                                  <li>
+                                      <a href="/om-klinikken/" title="Om klinikken">
+                                          <span class="left"></span><span class="middle">Om klinikken</span><span class="right"></span>
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="/kontakt/" title="Kontakt">
+                                          <span class="left"></span><span class="middle">Kontakt</span><span class="right"></span>
+                                      </a>
+                                  </li>
+      
+                          </ul>
+      
+                      </section>
+      
+                  </section>
+              </section>
+          </section>
+      </header>
+      <nav id="mainNav">
+      <section class="row center">
+      <section class="span25">
+      
+      <ul class="pull-left span19 hidden-phone nav">
+          
+      		<li class="">
+      		    
+      		        <a href="/" title="Forside">Forside</a>
+      		    
+      		        <div class="dropdown clearfix">
+      		            <ul class="dropdown-menu">
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/cookie-og-privatlivspolitik/" title="Cookie og privatlivspolitik">Cookie og privatlivspolitik</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/henvisning/" title="Henvisning">Henvisning</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Patientvejledninger">Patientvejledninger</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/blokadeanlaeggelse/" title="Blokadeanl&#230;ggelse">Blokadeanl&#230;ggelse</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/dupuytren-s-kontraktur/" title="Dupuytren’s kontraktur">Dupuytren’s kontraktur</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/ganglion/" title="Ganglion">Ganglion</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/golfalbue/" title="Golfalbue">Golfalbue</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/haelspore-syndromet/" title="H&#230;lspore-syndromet">H&#230;lspore-syndromet</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/karpaltunnelsyndrom/" title="Karpaltunnelsyndrom">Karpaltunnelsyndrom</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/mortons-neurom/" title="Mortons Neurom">Mortons Neurom</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/nedgroet-negl/" title="Nedgroet negl">Nedgroet negl</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/" title="Seneskedebet&#230;ndelse ved tommelfingeren">Seneskedebet&#230;ndelse ved tommelfingeren</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/springfinger/" title="Springfinger">Springfinger</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/tennisalbue/" title="Tennisalbue">Tennisalbue</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/om-klinikken/" title="Om klinikken">Om klinikken</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/kontakt/" title="Kontakt">Kontakt</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/ansatte/" title="Ansatte">Ansatte</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Operationer">Operationer</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/areknuder/" title="&#197;reknuder">&#197;reknuder</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/" title="Kn&#230;">Kn&#230;</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/" title="Fod">Fod</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/" title="Hand">Hand</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/gigtlidelser/" title="Gigtlidelser">Gigtlidelser</a></li>
+                                            </ul>
+                          		    </li>
+                        </ul>
+      		        </div>
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="/henvisning/" title="Henvisning">Henvisning</a>
+      		    
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="#" title="Patientvejledninger">Patientvejledninger</a>
+      		    
+      		        <div class="dropdown clearfix">
+      		            <ul class="dropdown-menu">
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/blokadeanlaeggelse/" title="Blokadeanl&#230;ggelse">Blokadeanl&#230;ggelse</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/dupuytren-s-kontraktur/" title="Dupuytren’s kontraktur">Dupuytren’s kontraktur</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/ganglion/" title="Ganglion">Ganglion</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/golfalbue/" title="Golfalbue">Golfalbue</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/haelspore-syndromet/" title="H&#230;lspore-syndromet">H&#230;lspore-syndromet</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/karpaltunnelsyndrom/" title="Karpaltunnelsyndrom">Karpaltunnelsyndrom</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/mortons-neurom/" title="Mortons Neurom">Mortons Neurom</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/nedgroet-negl/" title="Nedgroet negl">Nedgroet negl</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/" title="Seneskedebet&#230;ndelse ved tommelfingeren">Seneskedebet&#230;ndelse ved tommelfingeren</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/springfinger/" title="Springfinger">Springfinger</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/tennisalbue/" title="Tennisalbue">Tennisalbue</a>
+      		                	    
+      		                	 
+                          		    </li>
+                        </ul>
+      		        </div>
+      		</li>
+      		<li class="active">
+      		    
+      		        <a href="/ansatte/" title="Ansatte">Ansatte</a>
+      		    
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="#" title="Operationer">Operationer</a>
+      		    
+      		        <div class="dropdown clearfix">
+      		            <ul class="dropdown-menu">
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/operationer/areknuder/" title="&#197;reknuder">&#197;reknuder</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/operationer/knae/" title="Kn&#230;">Kn&#230;</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/knaeskalssmerter/" title="Kn&#230;skalssmerter">Kn&#230;skalssmerter</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/springerknae/" title="Springerkn&#230;">Springerkn&#230;</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/runner-knee/" title="Runner knee">Runner knee</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/bakers-cyste/" title="Bakers Cyste">Bakers Cyste</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/osgood-schlatter/" title="Osgood-Schlatter">Osgood-Schlatter</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/knaeledsmus/" title="Kn&#230;ledsmus">Kn&#230;ledsmus</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/artroskopi/" title="Artroskopi">Artroskopi</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/slimsaek-ved-knaeskallen/" title="Slims&#230;k ved kn&#230;skallen">Slims&#230;k ved kn&#230;skallen</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/skinnebensbetaendelse/" title="Skinnebensbet&#230;ndelse">Skinnebensbet&#230;ndelse</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Fod">Fod</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/knyst/" title="Knyst">Knyst</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/haelsmerte/" title="H&#230;lsmerte">H&#230;lsmerte</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/mortons-neuom/" title="Mortons neuom">Mortons neuom</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/ligtorn/" title="Ligtorn">Ligtorn</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/hammerta/" title="Hammert&#229;">Hammert&#229;</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/fodvorter/" title="Fodvorter">Fodvorter</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/ungvis-incarnatus/" title="Ungvis incarnatus">Ungvis incarnatus</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/skraedderknyst/" title="Skr&#230;dderknyst">Skr&#230;dderknyst</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/pedis-plani/" title="Pedis plani">Pedis plani</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/transversoplani/" title="Transversoplani">Transversoplani</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Hand">Hand</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/mb-dequervain/" title="Mb.deQuervain">Mb.deQuervain</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/carpal-tunnel-syndrom/" title="Carpal Tunnel Syndrom">Carpal Tunnel Syndrom</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/seneknude/" title="Seneknude">Seneknude</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/slidgigt-i-tommelfingeren/" title="Slidgigt i tommelfingeren">Slidgigt i tommelfingeren</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/springfinger/" title="Springfinger">Springfinger</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/golfalbue/" title="Golfalbue">Golfalbue</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/dupuytrens-contractur/" title="Dupuytrens Contractur">Dupuytrens Contractur</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/leddegigtskirurgi/" title="Leddegigtskirurgi">Leddegigtskirurgi</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/tennisalbue/" title="Tennisalbue">Tennisalbue</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/slidgigt-i-fingerled/" title="Slidgigt i fingerled">Slidgigt i fingerled</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/operationer/gigtlidelser/" title="Gigtlidelser">Gigtlidelser</a>
+      		                	    
+      		                	 
+                          		    </li>
+                        </ul>
+      		        </div>
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="/kontakt/" title="Kontakt">Kontakt</a>
+      		    
+      		</li>
+      </ul>
+      
+      <div id="searchDiv">
+          <input type="text" name="searchString" placeholder="S&#248;g...">
+          <button>Go</button>
+          <div class="quick"></div>
+      </div>
+      
+      </section>
+      </section>
+      </nav>
+      
+      
+      
+      
+      <section id="slider" class="static">
+      </section>
+      
+      <section id="main" class="normalPage">
+          <section class="row center">
+              <section class="span25 main-wrapper">
+                  <div class="title span9">
+                      <h1 class="span8">Klinikkens ansatte</h1>
+                      <h2 class="span8">L&#230;s om deres baggrund</h2>
+                  </div>
+                  <div class="cornerShadow left"></div>
+                  <div class="cornerShadow right"></div>
+                  <section class="content span24">
+                      <section class="top">
+                          <h2>Vores L&#230;ge</h2>
+                          <p><span>Læs om lægens baggrund</span></p>
+                      </section>
+                      <ul class="doctors list">
+                  <li>
+                          <a href="/media/wbbd4cdp/jan-beck-mikkelsen.jpg" data-colorbox="1" class="cboxElement">
+                              <figure>
+                                  <img src="/media/wbbd4cdp/jan-beck-mikkelsen.jpg" alt="Jan Beck Mikkelsen">
+                                  <div class="overlay"></div>
+                              </figure>
+                          </a>
+          
+      
+      
+                      <div class="info">
+                          <h1>Jan Beck Mikkelsen, Overl&#230;ge</h1>
+                          <h3>Speciall&#230;ge i ortop&#230;dkirurgi</h3>
+                          <p>Jan Beck Mikkelsen har v&#230;ret speciall&#230;ge i Ortop&#230;dkirurgi siden 1997, og har fungeret som overl&#230;ge p&#229; Ortop&#230;dkirurgisk afdeling, Kolding sygehus fra 2002 -11 og v&#230;ret praktiserende speciall&#230;ge fra 2008.</p>
+                              <a href="/ansatte/jan-beck-mikkelsen/" title="Jan Beck Mikkelsen" class="customButton smallRadius">Læs mere om Jan Beck Mikkelsen.</a>
+                          
+                      </div>
+                  </li>
+          </ul>
+      
+                      <section class="top">
+                          <h2>Andre fuldtidsansatte</h2>
+                          <p><span>Læs kort om klinikkens andre ansatte.</span></p>
+                      </section>
+                      <ul class="doctors list">
+                  <li>
+                          <a href="/media/kukdlhvf/helle-kaj-hansen.jpg" data-colorbox="1" class="cboxElement">
+                              <figure>
+                                  <img src="/media/kukdlhvf/helle-kaj-hansen.jpg" alt="Helle Kaj Hansen">
+                                  <div class="overlay"></div>
+                              </figure>
+                          </a>
+          
+      
+      
+                      <div class="info">
+                          <h1>Helle Kaj Hansen, Sygeplejerske</h1>
+                          <h3></h3>
+                          <p></p>
+                          
+                      </div>
+                  </li>
+                  <li>
+                          <a href="/media/l4bgk4bn/lene-petersen.jpg" data-colorbox="1" class="cboxElement">
+                              <figure>
+                                  <img src="/media/l4bgk4bn/lene-petersen.jpg" alt="Lene Petersen">
+                                  <div class="overlay"></div>
+                              </figure>
+                          </a>
+          
+      
+      
+                      <div class="info">
+                          <h1>Lene Petersen, Sekret&#230;r</h1>
+                          <h3></h3>
+                          <p>Lene vil som regel v&#230;re din f&#248;rste kontakt til klinikken.</p>
+                          
+                      </div>
+                  </li>
+          </ul>
+                  </section>
+              </section>
+          </section>
+      </section>
+      
+      
+      <footer>
+          <section class="row center">
+              <section class="span25">
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Hurtig-Links</h2>
+                      <ul>
+                              <li>
+                                  <a href="/">
+                                      <i></i>Forside</a>
+                              </li>
+                              <li>
+                                  <a href="/henvisning/">
+                                      <i></i>Henvisning</a>
+                              </li>
+                              <li>
+                                  <a href="/ansatte/">
+                                      <i></i>Ansatte</a>
+                              </li>
+                              <li>
+                                  <a href="/kontakt/">
+                                      <i></i>Kontakt</a>
+                              </li>
+                              <li>
+                                  <a href="/cookie-og-privatlivspolitik/">
+                                      <i></i>Cookie og privatlivspolitik</a>
+                              </li>
+                      </ul>
+      
+                      <a href="https://www.ikas.dk/den-danske-kvalitetsmodel/" target="_blank">
+                          <img src="/media/anrin1h4/ddkm_akkrediteret.png" alt="Ddkm Akkrediteret">
+                      </a>
+                  </section>
+      
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Patientvejledninger</h2>
+                      <ul>
+                              <li>
+                                  <a href="/patientvejledninger/blokadeanlaeggelse/" title="Blokadeanl&#230;ggelse">
+                                      <i></i>Blokadeanl&#230;ggelse</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/dupuytren-s-kontraktur/" title="Dupuytren’s kontraktur">
+                                      <i></i>Dupuytren’s kontraktur</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/ganglion/" title="Ganglion">
+                                      <i></i>Ganglion</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/golfalbue/" title="Golfalbue">
+                                      <i></i>Golfalbue</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/haelspore-syndromet/" title="H&#230;lspore-syndromet">
+                                      <i></i>H&#230;lspore-syndromet</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/karpaltunnelsyndrom/" title="Karpaltunnelsyndrom">
+                                      <i></i>Karpaltunnelsyndrom</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/mortons-neurom/" title="Mortons Neurom">
+                                      <i></i>Mortons Neurom</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/nedgroet-negl/" title="Nedgroet negl">
+                                      <i></i>Nedgroet negl</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/" title="Seneskedebet&#230;ndelse ved tommelfingeren">
+                                      <i></i>Seneskedebet&#230;ndelse ved tommelfingeren</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/springfinger/" title="Springfinger">
+                                      <i></i>Springfinger</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/tennisalbue/" title="Tennisalbue">
+                                      <i></i>Tennisalbue</a>
+                              </li>
+                      </ul>
+                  </section>
+      
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Ekstra Information</h2>
+                      <h3>Lokalisationsnummer</h3>
+      
+                      <ul>
+                          <li>
+                              <i></i>5790000134205</li>
+                      </ul>
+                      <h3 style="padding-top: 10px;">Ydernummer</h3>
+                      <ul>
+                          <li>
+                              <i></i>244333</li>
+                      </ul>
+      
+                      <h3 style="padding-top: 10px;">Dokumenter</h3>
+                      <ul>
+                              <li>
+                                  <a target="_blank" href="/media/fvihs4gd/tilsynsrapport-2014.pdf" title="Tilsynsrapport">
+                                      <i></i>Tilsynsrapport</a>
+                              </li>
+                              <li>
+                                  <a target="_blank" href="/media/hwfgwgl5/behanding_af_personoplysninger.pdf" title="Behanding Af Personoplysninger">
+                                      <i></i>Behanding Af Personoplysninger</a>
+                              </li>
+                      </ul>
+      
+                  </section>
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Hurtig-kontakt</h2>
+                      <h3>Kontakt os via email</h3>
+      
+      
+                      <div id="umbraco_form_f1dc0db0565945a792073cf6183e8255" class="umbraco-forms-form contantform umbraco-forms-FooterContact">
+      
+      <form action="/ansatte" enctype="multipart/form-data" method="post"><input name="__RequestVerificationToken" type="hidden" value="z3mAQr2YpF1_s6ufrBIPZtIIgs-nwiLS68CJ3w1akWXFG4k3tHIbYWzHdRNPlE04SIbrDWOM7l0Is41JR5GJm1szVjHsw7utJXlAfT5mT481"><input data-val="true" data-val-required="The FormId field is required." name="FormId" type="hidden" value="f1dc0db0-5659-45a7-9207-3cf6183e8255"><input name="FormName" type="hidden" value="Contant Form"><input data-val="true" data-val-required="The RecordId field is required." name="RecordId" type="hidden" value="00000000-0000-0000-0000-000000000000"><input name="PreviousClicked" type="hidden" value=""><input name="Theme" type="hidden" value="FooterContact">            <input type="hidden" name="FormStep" value="0">
+                  <input type="hidden" name="RecordState" value="QjJFNEU0OEMyOTk0RTg4OEU1MEMxMzQyRTc4NTcwMUQxMTkyQ0MxQjQ5OUE5NDE1QzhGMTAyRUFENDlFMzM3REU0ODA4MjMyMEFCMkNGN0FFNENBOEQxMTQ0MUVCNUU2N0Y3QzgzOTk5NEU3MzFFREE5NjUzMEE4NzE4QTI1NTQzNkYyRjdEOTFGMEU3MUUwOEM4Qjk5MUMwM0ZCQzlBQ0IwNUI3ODkwOURDNDhBQ0FDMEZGNTRFQjYyNEU5Q0E1RTU2MzYwRjBDRTA1RTAxQUE3NTI5NzZDMjMzQ0Q5NTREMTE2QThCMURERjI2M0I1Mzc4ODQxREFCQTAyNkZBQTU0N0FBRUQ4NTE1Q0EwMjlDOTQ2NzMyMEM4NUZFNjE4MjQwNDZBMUVDQzNGRDYzMzQ4NTZFQUIxRUMyNkZDNUM3NEREMTY5MUI2MjRGQzRBOUZCOTUwMDA2MERGRTE2MUVFRUUzMEE3MzE2ODNEODU1ODY4OEUxRDI2NTMzMDI1MUFBRkEzRUVBMEM1QjZCN0NFQTIzNEI1QkZBNEU2RDMxOTVFOTgzRUQ0NTk0OUQwQzJGMTFBQUE5MTVGNDM0QzVCODIxMjI0Q0ExOUUzOEFFN0UzRkZCNjA4OEIzMTYwREQ3N0I4ODRBMkM4QkREN0QxQTRGQkFFNUQ3RTFEMjg4RDdCREQ4ODk1OTY4QjM4QzhFQTMzNzE1N0E2QUEzMjVFQzlGMDY3REY3NTNGQTkwMzM4RUE1QTg5MzA5NDQyMUFBNTU2QzZBMkNDQjVEQzYxMDBCNjFBOEYxM0Y2QzA1QzQ4NjdBMzNFMkE5RDM2QUE0N0JCNUUxRTNBMDdGQUVDMEZGRjYzOEU0MzlFM0FBREQ4RTdGQUVFRTQ4NjVERjI5MzhEQzcyNEZCQjNEQjA0Q0E5OEQ2Njg5Njg4OTFGMDYxMUQwQzVEREE0NUM1NzlEOTk2Q0QyNENFMkJEQUI4OTQxRDM5NTE0NzRFRDYyNjgxNjlCRTkzMDc4ODA0MzkwRDgzOEI3RjdBM0ZDMEQ5NDREREI1QTc3RkFCQzI5MDYxMzQ4RDcwRjg1N0EzRkNFQjM4RThBMTFFMDc4Mg==">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                      
+      
+          <input type="text" name="c800a70c-1013-4a63-9e15-cc421e83c51b" id="c800a70c-1013-4a63-9e15-cc421e83c51b" class="text blackInput span6" value="" maxlength="500" placeholder="Navn (p&#229;kr&#230;vet)" data-val="true" data-val-required="Please provide a value for Name"> 
+          <input type="text" name="5f0faf26-8bde-4b14-9bde-514e4a530409" id="5f0faf26-8bde-4b14-9bde-514e4a530409" class="text blackInput span6" value="" maxlength="500" placeholder="E-mail adresse (p&#229;kr&#230;vet)" data-val="true" data-val-required="Please provide a value for Email" data-val-regex="Please provide a valid value for Email" data-regex="[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+"> 
+          <input type="hidden" name="a03c49c5-4299-4030-d154-69485bfe9169" id="a03c49c5-4299-4030-d154-69485bfe9169" class="text" value="">
+      
+      <textarea class="form-control span6" name="5211fe85-8f5f-4d4c-a011-93ba20de5b05" id="5211fe85-8f5f-4d4c-a011-93ba20de5b05" rows="2" cols="20" placeholder="Din Besked (p&#229;kr&#230;vet)" data-val="true" data-val-required="Please provide a value for Message"></textarea>
+      
+      
+      
+          <div style="display: none">
+              <input type="text" name="f1dc0db0565945a792073cf6183e8255">
+          </div>
+      
+      		
+          <div class="umbraco-forms-navigation row-fluid">
+      		
+              <div class="col-sm-10 col-sm-offset-2">
+                      <input type="submit" class="btn btn-primary" value="Send" name="submitbtn">
+              </div>
+      
+      
+          </div>
+      
+      <input name="ufprt" type="hidden" value="B11D37384BC9D1D0DA4986810F28C0929532F48B046FAFD48F481ED5C11BCE3551141D036CABB84E5B09629E59FFDE337EC22C1C11ACCCBBEA1C89AA1C8CCF2DDB7F974599CF6D945570C03BE2B796C8F1AAE20CF8903A21CDF3AC6DFE97872F7CF1ACD15B9802901AD111AF0B8C3996768F24E6B63240A1A8A41D5E1F9D46D911EC023BF90BEFD0E40B4E71EDD7A0A6"></form>
+      
+              
+          </div>
+      
+                      <script>
+                          $("#quickContactForm").submit(function() {
+                              var $this = $(this);
+                              var $submit = $this.find("input[type=submit]");
+                              var $message = $this.find("#successMessage");
+      
+                              if ($this.valid()) {
+                                  $submit.prop("disabled", true);
+                                  $message.show();
+                                  setTimeout(function() {
+                                          $submit.prop("disabled", false);
+                                          $message.hide();
+                                      },
+                                      10000);
+      
+                                  return true;
+                              }
+      
+      
+                              return false;
+                          });
+      
+                      </script>
+                  </section>
+              </section>
+          </section>
+      </footer>
+      <section id="copyright">
+          <section class="row center">
+              <section class="span25">
+                  <p></p>
+              </section>
+          </section>
+      </section>
+      <script>
+          if (document.body.offsetWidth < 400) {
+              viewport = document.querySelector("meta[name=viewport]");
+              viewport.setAttribute('content',
+                  'width=device-width; minimum-scale=0.75, initial-scale=0.75; maximum-scale=0.75; user-scalable=0;');
+          }
+      
+          if (jQuery.cookie('cc_cookie_decline') == "cc_cookie_decline") {
+              // do nothing
+          } else {
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', 'UA-7864632-1']);
+              _gaq.push(['_trackPageview']);
+      
+              (function() {
+                  var ga = document.createElement('script');
+                  ga.type = 'text/javascript';
+                  ga.async = true;
+                  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') +
+                      '.google-analytics.com/ga.js';
+                  var s = document.getElementsByTagName('script')[0];
+                  s.parentNode.insertBefore(ga, s);
+              })();
+          }
+      
+      
+      </script>
+      
+      <script type="text/javascript">
+          var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+          document.write(unescape("%3Cscript src='" +
+              gaJsHost +
+              "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type="text/javascript">
+          try {
+              var pageTracker = _gat._getTracker("UA-7864632-1");
+              pageTracker._trackPageview();
+          } catch (err) {
+          }
+      
+          $.cookieCuttr({
+              cookieMessage:
+                  'Websitet anvender cookies til at huske dine indstillinger og statistik. L&#230;s mere om vores <a href="{{cookiePolicyLink}}" title="Cookie og privatlivspolitik">Cookie og privatlivspolitik</a>.',
+              cookiePolicyLink: '/cookie-og-privatlivspolitik/',
+              cookieAcceptButtonText: 'Accepter og skjul denne besked.',
+              cookieDeclineButton: false,
+              cookieNotificationLocationBottom: true,
+              cookieAnalytics: false
+          });
+      </script>
+      
+      
+      
+      <script type="application/javascript">
+          if (typeof umbracoFormsCollection === 'undefined') var umbracoFormsCollection = [];
+          umbracoFormsCollection.push("%7B%22formId%22:%22f1dc0db0565945a792073cf6183e8255%22,%22fieldSetConditions%22:%7B%7D,%22fieldConditions%22:%7B%7D,%22recordValues%22:%7B%7D%7D");
+      </script>
+      
+      
+      <script type='application/javascript' src='/App_Plugins/UmbracoForms/Assets/Themes/Default/umbracoforms.js' defer='defer' type='application/javascript'></script><link rel='stylesheet' href='/app_plugins/umbracoforms/assets/defaultform.css'>
+      </body>
+      </html>
+trce: WebCrawlerTest.Tests[0]
+      Removed forms from 
+      
+      <!DOCTYPE html>
+      <html>
+      <head>
+          <meta charset="utf-8">
+          <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+          <meta name="viewport" content="width=320, initial-scale=0.75, minimum-scale=0.75, maximum-scale=1.0">
+      
+          <link rel="icon" type="image/png" href="/media/2rpiiosy/favicon.png">
+      
+          <link href="/css/bootstrap.css" rel="stylesheet">
+          <link href="/css/colorbox.css" rel="stylesheet">
+          <link href="/css/main.css" rel="stylesheet">
+          <link href="/css/cookiecuttr.css" rel="stylesheet">
+      
+          <script src="/scripts/jquery-1.11.3.min.js"></script>
+          <script src="/scripts/jquery.unobtrusive-ajax.min.js"></script>
+          <script src="/scripts/jquery.validate.min.js"></script>
+          <script src="/scripts/jquery.validate.unobtrusive.min.js"></script>
+          <script src="/scripts/jquery.placeholder.min.js"></script>
+          <script src="/scripts/jquery.colorbox.js"></script>
+          <script src="/scripts/main.js"></script>
+          <script src="/scripts/jquery.mobilemenu.js"></script>
+          <script src="/scripts/jquery.cookie.js"></script>
+          <script src="/scripts/jquery.ba-throttle-debounce.min.js"></script>
+          <script src="/scripts/jquery.cookiecuttr.js"></script>
+      
+      
+          <title>Forside - Klinik for Ortop&#230;dkirurgi ved Jan Beck Mikkelsen</title>
+          <meta name="description" content="Klinik for Ortop&#230;dkirurgi ved Jan Beck Mikkelsen beliggende i L&#230;gehuset Sankt Anne i Odense Centrum.">
+      
+      </head>
+      <body>
+      <header>
+          <section class="row center">
+              <section class="span25">
+                  <section class="left pull-left span6">
+                      <figure id="logo">
+                          <a href="/" title="Klinik for Ortopædkirurgi">
+      
+                              <img src="/media/qdjogctz/logo.png" alt="Klinik For Ortop&#230;dkirurgi">
+      
+      
+                          </a>
+                      </figure>
+                  </section>
+                  <section class="right pull-right span18">
+                      <section class="letterPressed pull-right">
+                          <span class="left"></span>
+                          <div class="middle">Telefonnummer: 66 13 41 42</div>
+                          <span class="right"></span>
+                      </section>
+                      <section class="info pull-right">
+      
+      
+                          <ul>
+                                  <li>
+                                      <a href="/om-klinikken/" title="Om klinikken">
+                                          <span class="left"></span><span class="middle">Om klinikken</span><span class="right"></span>
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="/kontakt/" title="Kontakt">
+                                          <span class="left"></span><span class="middle">Kontakt</span><span class="right"></span>
+                                      </a>
+                                  </li>
+      
+                          </ul>
+      
+                      </section>
+      
+                  </section>
+              </section>
+          </section>
+      </header>
+      <nav id="mainNav">
+      <section class="row center">
+      <section class="span25">
+      
+      <ul class="pull-left span19 hidden-phone nav">
+          
+      		<li class="active">
+      		    
+      		        <a href="/" title="Forside">Forside</a>
+      		    
+      		        <div class="dropdown clearfix">
+      		            <ul class="dropdown-menu">
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/cookie-og-privatlivspolitik/" title="Cookie og privatlivspolitik">Cookie og privatlivspolitik</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/henvisning/" title="Henvisning">Henvisning</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Patientvejledninger">Patientvejledninger</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/blokadeanlaeggelse/" title="Blokadeanl&#230;ggelse">Blokadeanl&#230;ggelse</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/dupuytren-s-kontraktur/" title="Dupuytren’s kontraktur">Dupuytren’s kontraktur</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/ganglion/" title="Ganglion">Ganglion</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/golfalbue/" title="Golfalbue">Golfalbue</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/haelspore-syndromet/" title="H&#230;lspore-syndromet">H&#230;lspore-syndromet</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/karpaltunnelsyndrom/" title="Karpaltunnelsyndrom">Karpaltunnelsyndrom</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/mortons-neurom/" title="Mortons Neurom">Mortons Neurom</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/nedgroet-negl/" title="Nedgroet negl">Nedgroet negl</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/" title="Seneskedebet&#230;ndelse ved tommelfingeren">Seneskedebet&#230;ndelse ved tommelfingeren</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/springfinger/" title="Springfinger">Springfinger</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/tennisalbue/" title="Tennisalbue">Tennisalbue</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/om-klinikken/" title="Om klinikken">Om klinikken</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/kontakt/" title="Kontakt">Kontakt</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/ansatte/" title="Ansatte">Ansatte</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Operationer">Operationer</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/areknuder/" title="&#197;reknuder">&#197;reknuder</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/" title="Kn&#230;">Kn&#230;</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/" title="Fod">Fod</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/" title="Hand">Hand</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/gigtlidelser/" title="Gigtlidelser">Gigtlidelser</a></li>
+                                            </ul>
+                          		    </li>
+                        </ul>
+      		        </div>
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="/henvisning/" title="Henvisning">Henvisning</a>
+      		    
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="#" title="Patientvejledninger">Patientvejledninger</a>
+      		    
+      		        <div class="dropdown clearfix">
+      		            <ul class="dropdown-menu">
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/blokadeanlaeggelse/" title="Blokadeanl&#230;ggelse">Blokadeanl&#230;ggelse</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/dupuytren-s-kontraktur/" title="Dupuytren’s kontraktur">Dupuytren’s kontraktur</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/ganglion/" title="Ganglion">Ganglion</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/golfalbue/" title="Golfalbue">Golfalbue</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/haelspore-syndromet/" title="H&#230;lspore-syndromet">H&#230;lspore-syndromet</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/karpaltunnelsyndrom/" title="Karpaltunnelsyndrom">Karpaltunnelsyndrom</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/mortons-neurom/" title="Mortons Neurom">Mortons Neurom</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/nedgroet-negl/" title="Nedgroet negl">Nedgroet negl</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/" title="Seneskedebet&#230;ndelse ved tommelfingeren">Seneskedebet&#230;ndelse ved tommelfingeren</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/springfinger/" title="Springfinger">Springfinger</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/tennisalbue/" title="Tennisalbue">Tennisalbue</a>
+      		                	    
+      		                	 
+                          		    </li>
+                        </ul>
+      		        </div>
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="/ansatte/" title="Ansatte">Ansatte</a>
+      		    
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="#" title="Operationer">Operationer</a>
+      		    
+      		        <div class="dropdown clearfix">
+      		            <ul class="dropdown-menu">
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/operationer/areknuder/" title="&#197;reknuder">&#197;reknuder</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/operationer/knae/" title="Kn&#230;">Kn&#230;</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/knaeskalssmerter/" title="Kn&#230;skalssmerter">Kn&#230;skalssmerter</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/springerknae/" title="Springerkn&#230;">Springerkn&#230;</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/runner-knee/" title="Runner knee">Runner knee</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/bakers-cyste/" title="Bakers Cyste">Bakers Cyste</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/osgood-schlatter/" title="Osgood-Schlatter">Osgood-Schlatter</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/knaeledsmus/" title="Kn&#230;ledsmus">Kn&#230;ledsmus</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/artroskopi/" title="Artroskopi">Artroskopi</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/slimsaek-ved-knaeskallen/" title="Slims&#230;k ved kn&#230;skallen">Slims&#230;k ved kn&#230;skallen</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/skinnebensbetaendelse/" title="Skinnebensbet&#230;ndelse">Skinnebensbet&#230;ndelse</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Fod">Fod</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/knyst/" title="Knyst">Knyst</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/haelsmerte/" title="H&#230;lsmerte">H&#230;lsmerte</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/mortons-neuom/" title="Mortons neuom">Mortons neuom</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/ligtorn/" title="Ligtorn">Ligtorn</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/hammerta/" title="Hammert&#229;">Hammert&#229;</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/fodvorter/" title="Fodvorter">Fodvorter</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/ungvis-incarnatus/" title="Ungvis incarnatus">Ungvis incarnatus</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/skraedderknyst/" title="Skr&#230;dderknyst">Skr&#230;dderknyst</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/pedis-plani/" title="Pedis plani">Pedis plani</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/transversoplani/" title="Transversoplani">Transversoplani</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Hand">Hand</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/mb-dequervain/" title="Mb.deQuervain">Mb.deQuervain</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/carpal-tunnel-syndrom/" title="Carpal Tunnel Syndrom">Carpal Tunnel Syndrom</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/seneknude/" title="Seneknude">Seneknude</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/slidgigt-i-tommelfingeren/" title="Slidgigt i tommelfingeren">Slidgigt i tommelfingeren</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/springfinger/" title="Springfinger">Springfinger</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/golfalbue/" title="Golfalbue">Golfalbue</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/dupuytrens-contractur/" title="Dupuytrens Contractur">Dupuytrens Contractur</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/leddegigtskirurgi/" title="Leddegigtskirurgi">Leddegigtskirurgi</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/tennisalbue/" title="Tennisalbue">Tennisalbue</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/slidgigt-i-fingerled/" title="Slidgigt i fingerled">Slidgigt i fingerled</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/operationer/gigtlidelser/" title="Gigtlidelser">Gigtlidelser</a>
+      		                	    
+      		                	 
+                          		    </li>
+                        </ul>
+      		        </div>
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="/kontakt/" title="Kontakt">Kontakt</a>
+      		    
+      		</li>
+      </ul>
+      
+      <div id="searchDiv">
+          <input type="text" name="searchString" placeholder="S&#248;g...">
+          <button>Go</button>
+          <div class="quick"></div>
+      </div>
+      
+      </section>
+      </section>
+      </nav>
+      
+      
+      
+      
+      <section id="slider" class="hidden-phone">
+          <div id="myCarousel" class="carousel slide">
+              <div class="carousel-inner">
+                  <div class="item active">
+                         <img src="/media/lo4n2nbs/sliderimage1.png" style="">
+                  </div>
+                  <div class="item">
+                     <img src="/media/lo4n2nbs/sliderimage1.png" style="">
+                  </div>
+              </div>
+          </div>
+          <section class="carouselBottom">
+              <div class="carousel-caption">
+                  <section class="row center">
+                      <div class="carousel-caption-big span25">
+                          <span class="medicalSymbol pull-left">
+                                  <img src="/media/yfgjptgu/medicalsymbol.png" alt="Rod of Asclepius">
+                                
+                          </span>
+                          <span class="medicalSymbol pull-right">
+                                  <img src="/media/yfgjptgu/medicalsymbol.png" alt="Rod of Asclepius">
+                          </span>
+                          <h1>Klinik for Ortop&#230;dkirurgi</h1>
+                          <p>Ved Jan Beck Mikkelsen.</p>
+                      </div>
+                  </section>
+              </div>
+          </section>
+      </section>
+      
+      
+      <section id="main">
+          <section class="row center">
+              <section class="span25 main-wrapper">
+                  <section class="content span16">
+                      <section class="span8 infoBox">
+                          <h2>ADRESSE</h2>
+                          <ul>
+                                  <li><a href="/kontakt" title="Kontakt"><i class="bullet"></i>Skt. Anne Plads 2-4, 4. sal</a></li>    
+                                  <li><a href="/kontakt" title="Kontakt"><i class="bullet"></i>5000 Odense C</a></li>    
+                                  <li><a href="/kontakt" title="Kontakt"><i class="bullet"></i>Tlf: 66 13 41 42</a></li>    
+                                  <li><a href="/kontakt" title="Kontakt"><i class="bullet"></i>Fax: 66 13 69 90</a></li>    
+                          </ul>
+                      </section>
+      
+                      <section class="span8 bigInfoBox">
+                          <hgroup>
+                              <h2>Telefon</h2>
+                              <h3>og konsultationstider</h3>
+                          </hgroup>
+      
+                          <p><span>Telefontider</span></p>
+<ul>
+<li>Mandag-Torsdag: 9-12 og 13-15</li>
+<li>Telefonnummer: 66 13 41 42</li>
+<li>Fax: 66 13 69 90</li>
+</ul>
+<p><span>Konsultationstider</span></p>
+<ul>
+<li>Mandag-Torsdag: Efter aftale</li>
+</ul>
+<p><span>Ferieperioder:</span></p>
+<ul>
+<li>Sommerferie: uge 29-32</li>
+<li>Efterårsferie: uge 42</li>
+<li>Juleferie : 23/12-05/01</li>
+</ul>
+      
+                      </section>
+               
+                     
+                  </section>
+      
+                  <aside class="span8">
+                      <section class="span8 infoBox">
+                          <article class="topBig" style="text-align: left">
+                              <h2>LÆGEHUSET SANKT ANNE</h2>
+                              <p>Klinikken ligger i Lægehuset Sankt Anne, som er et af Europas største lægehuse med 22 almen praktiserende læger og 12 praktiserende speciallæger som repræsenterer 9 medicinske og kirurgiske specialer.</p>
+<p>Yderligere er der 1 fysioterapeutiske klinik og en fodterapeutisk klinik i huset.</p>
+<p>Klinikken er beliggende på 4.sal med gode tilkørselforhold og elevator. Handicapparkering forefindes.</p>
+                          </article>
+                      </section>
+      
+                 
+                    
+                  </aside>
+                 
+               
+                  <div class="separator"></div>
+                  <section class="span25 main-wrapper bottomSection hidden-phone">
+                      <section class="span24 left">
+                          <h4>Vores læge</h4>
+                       
+      
+                          
+                              <section class="span24 coverFlow">
+                                  <ul style="width: 1100px;">
+                                      <li class="span24">
+                                          <a href="/media/wbbd4cdp/jan-beck-mikkelsen.jpg" data-colorbox="1">
+                                              <figure>
+                                                  <img src="/media/wbbd4cdp/jan-beck-mikkelsen.jpg" alt="Jan Beck Mikkelsen">
+                                                  <div class="overlay"></div>
+                                              </figure>
+                                          </a>
+      
+                                          <div class="info">
+                                              <p>Jan Beck Mikkelsen har v&#230;ret speciall&#230;ge i Ortop&#230;dkirurgi siden 1997, og har fungeret som overl&#230;ge p&#229; Ortop&#230;dkirurgisk afdeling, Kolding sygehus fra 2002 -11 og v&#230;ret praktiserende speciall&#230;ge fra 2008.</p>
+                                              <a href="/ansatte/jan-beck-mikkelsen/" title="Jan Beck Mikkelsen" class="customButton smallRadius pull-right" style="margin-right: 25px;">Jan Beck Mikkelsen</a>
+                                          </div>
+                                      </li>                            
+                                  </ul>
+                              </section>
+                        
+                      </section>
+                      
+                  </section>
+              </section>
+          </section>
+      </section>
+      
+      
+      <footer>
+          <section class="row center">
+              <section class="span25">
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Hurtig-Links</h2>
+                      <ul>
+                              <li>
+                                  <a href="/">
+                                      <i></i>Forside</a>
+                              </li>
+                              <li>
+                                  <a href="/henvisning/">
+                                      <i></i>Henvisning</a>
+                              </li>
+                              <li>
+                                  <a href="/ansatte/">
+                                      <i></i>Ansatte</a>
+                              </li>
+                              <li>
+                                  <a href="/kontakt/">
+                                      <i></i>Kontakt</a>
+                              </li>
+                              <li>
+                                  <a href="/cookie-og-privatlivspolitik/">
+                                      <i></i>Cookie og privatlivspolitik</a>
+                              </li>
+                      </ul>
+      
+                      <a href="https://www.ikas.dk/den-danske-kvalitetsmodel/" target="_blank">
+                          <img src="/media/anrin1h4/ddkm_akkrediteret.png" alt="Ddkm Akkrediteret">
+                      </a>
+                  </section>
+      
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Patientvejledninger</h2>
+                      <ul>
+                              <li>
+                                  <a href="/patientvejledninger/blokadeanlaeggelse/" title="Blokadeanl&#230;ggelse">
+                                      <i></i>Blokadeanl&#230;ggelse</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/dupuytren-s-kontraktur/" title="Dupuytren’s kontraktur">
+                                      <i></i>Dupuytren’s kontraktur</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/ganglion/" title="Ganglion">
+                                      <i></i>Ganglion</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/golfalbue/" title="Golfalbue">
+                                      <i></i>Golfalbue</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/haelspore-syndromet/" title="H&#230;lspore-syndromet">
+                                      <i></i>H&#230;lspore-syndromet</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/karpaltunnelsyndrom/" title="Karpaltunnelsyndrom">
+                                      <i></i>Karpaltunnelsyndrom</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/mortons-neurom/" title="Mortons Neurom">
+                                      <i></i>Mortons Neurom</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/nedgroet-negl/" title="Nedgroet negl">
+                                      <i></i>Nedgroet negl</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/" title="Seneskedebet&#230;ndelse ved tommelfingeren">
+                                      <i></i>Seneskedebet&#230;ndelse ved tommelfingeren</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/springfinger/" title="Springfinger">
+                                      <i></i>Springfinger</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/tennisalbue/" title="Tennisalbue">
+                                      <i></i>Tennisalbue</a>
+                              </li>
+                      </ul>
+                  </section>
+      
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Ekstra Information</h2>
+                      <h3>Lokalisationsnummer</h3>
+      
+                      <ul>
+                          <li>
+                              <i></i>5790000134205</li>
+                      </ul>
+                      <h3 style="padding-top: 10px;">Ydernummer</h3>
+                      <ul>
+                          <li>
+                              <i></i>244333</li>
+                      </ul>
+      
+                      <h3 style="padding-top: 10px;">Dokumenter</h3>
+                      <ul>
+                              <li>
+                                  <a target="_blank" href="/media/fvihs4gd/tilsynsrapport-2014.pdf" title="Tilsynsrapport">
+                                      <i></i>Tilsynsrapport</a>
+                              </li>
+                              <li>
+                                  <a target="_blank" href="/media/hwfgwgl5/behanding_af_personoplysninger.pdf" title="Behanding Af Personoplysninger">
+                                      <i></i>Behanding Af Personoplysninger</a>
+                              </li>
+                      </ul>
+      
+                  </section>
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Hurtig-kontakt</h2>
+                      <h3>Kontakt os via email</h3>
+      
+      
+                      <div id="umbraco_form_f1dc0db0565945a792073cf6183e8255" class="umbraco-forms-form contantform umbraco-forms-FooterContact">
+      
+      
+      
+              
+          </div>
+      
+                      <script>
+                          $("#quickContactForm").submit(function() {
+                              var $this = $(this);
+                              var $submit = $this.find("input[type=submit]");
+                              var $message = $this.find("#successMessage");
+      
+                              if ($this.valid()) {
+                                  $submit.prop("disabled", true);
+                                  $message.show();
+                                  setTimeout(function() {
+                                          $submit.prop("disabled", false);
+                                          $message.hide();
+                                      },
+                                      10000);
+      
+                                  return true;
+                              }
+      
+      
+                              return false;
+                          });
+      
+                      </script>
+                  </section>
+              </section>
+          </section>
+      </footer>
+      <section id="copyright">
+          <section class="row center">
+              <section class="span25">
+                  <p></p>
+              </section>
+          </section>
+      </section>
+      <script>
+          if (document.body.offsetWidth < 400) {
+              viewport = document.querySelector("meta[name=viewport]");
+              viewport.setAttribute('content',
+                  'width=device-width; minimum-scale=0.75, initial-scale=0.75; maximum-scale=0.75; user-scalable=0;');
+          }
+      
+          if (jQuery.cookie('cc_cookie_decline') == "cc_cookie_decline") {
+              // do nothing
+          } else {
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', 'UA-7864632-1']);
+              _gaq.push(['_trackPageview']);
+      
+              (function() {
+                  var ga = document.createElement('script');
+                  ga.type = 'text/javascript';
+                  ga.async = true;
+                  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') +
+                      '.google-analytics.com/ga.js';
+                  var s = document.getElementsByTagName('script')[0];
+                  s.parentNode.insertBefore(ga, s);
+              })();
+          }
+      
+      
+      </script>
+      
+      <script type="text/javascript">
+          var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+          document.write(unescape("%3Cscript src='" +
+              gaJsHost +
+              "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type="text/javascript">
+          try {
+              var pageTracker = _gat._getTracker("UA-7864632-1");
+              pageTracker._trackPageview();
+          } catch (err) {
+          }
+      
+          $.cookieCuttr({
+              cookieMessage:
+                  'Websitet anvender cookies til at huske dine indstillinger og statistik. L&#230;s mere om vores <a href="{{cookiePolicyLink}}" title="Cookie og privatlivspolitik">Cookie og privatlivspolitik</a>.',
+              cookiePolicyLink: '/cookie-og-privatlivspolitik/',
+              cookieAcceptButtonText: 'Accepter og skjul denne besked.',
+              cookieDeclineButton: false,
+              cookieNotificationLocationBottom: true,
+              cookieAnalytics: false
+          });
+      </script>
+      
+      
+      
+      <script type="application/javascript">
+          if (typeof umbracoFormsCollection === 'undefined') var umbracoFormsCollection = [];
+          umbracoFormsCollection.push("%7B%22formId%22:%22f1dc0db0565945a792073cf6183e8255%22,%22fieldSetConditions%22:%7B%7D,%22fieldConditions%22:%7B%7D,%22recordValues%22:%7B%7D%7D");
+      </script>
+      
+      
+      <script type='application/javascript' src='/App_Plugins/UmbracoForms/Assets/Themes/Default/umbracoforms.js' defer='defer' type='application/javascript'></script><link rel='stylesheet' href='/app_plugins/umbracoforms/assets/defaultform.css'>
+      </body>
+      </html> and 
+      
+      <!DOCTYPE html>
+      <html>
+      <head>
+          <meta charset="utf-8">
+          <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+          <meta name="viewport" content="width=320, initial-scale=0.75, minimum-scale=0.75, maximum-scale=1.0">
+      
+          <link rel="icon" type="image/png" href="/media/2rpiiosy/favicon.png">
+      
+          <link href="/css/bootstrap.css" rel="stylesheet">
+          <link href="/css/colorbox.css" rel="stylesheet">
+          <link href="/css/main.css" rel="stylesheet">
+          <link href="/css/cookiecuttr.css" rel="stylesheet">
+      
+          <script src="/scripts/jquery-1.11.3.min.js"></script>
+          <script src="/scripts/jquery.unobtrusive-ajax.min.js"></script>
+          <script src="/scripts/jquery.validate.min.js"></script>
+          <script src="/scripts/jquery.validate.unobtrusive.min.js"></script>
+          <script src="/scripts/jquery.placeholder.min.js"></script>
+          <script src="/scripts/jquery.colorbox.js"></script>
+          <script src="/scripts/main.js"></script>
+          <script src="/scripts/jquery.mobilemenu.js"></script>
+          <script src="/scripts/jquery.cookie.js"></script>
+          <script src="/scripts/jquery.ba-throttle-debounce.min.js"></script>
+          <script src="/scripts/jquery.cookiecuttr.js"></script>
+      
+      
+          <title>Ansatte - Klinik for Ortop&#230;dkirurgi ved Jan Beck Mikkelsen</title>
+          <meta name="description" content="Klinik for Ortop&#230;dkirurgi ved Jan Beck Mikkelsen beliggende i L&#230;gehuset Sankt Anne i Odense Centrum.">
+      
+      </head>
+      <body>
+      <header>
+          <section class="row center">
+              <section class="span25">
+                  <section class="left pull-left span6">
+                      <figure id="logo">
+                          <a href="/" title="Klinik for Ortopædkirurgi">
+      
+                              <img src="/media/qdjogctz/logo.png" alt="Klinik For Ortop&#230;dkirurgi">
+      
+      
+                          </a>
+                      </figure>
+                  </section>
+                  <section class="right pull-right span18">
+                      <section class="letterPressed pull-right">
+                          <span class="left"></span>
+                          <div class="middle">Telefonnummer: 66 13 41 42</div>
+                          <span class="right"></span>
+                      </section>
+                      <section class="info pull-right">
+      
+      
+                          <ul>
+                                  <li>
+                                      <a href="/om-klinikken/" title="Om klinikken">
+                                          <span class="left"></span><span class="middle">Om klinikken</span><span class="right"></span>
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="/kontakt/" title="Kontakt">
+                                          <span class="left"></span><span class="middle">Kontakt</span><span class="right"></span>
+                                      </a>
+                                  </li>
+      
+                          </ul>
+      
+                      </section>
+      
+                  </section>
+              </section>
+          </section>
+      </header>
+      <nav id="mainNav">
+      <section class="row center">
+      <section class="span25">
+      
+      <ul class="pull-left span19 hidden-phone nav">
+          
+      		<li class="">
+      		    
+      		        <a href="/" title="Forside">Forside</a>
+      		    
+      		        <div class="dropdown clearfix">
+      		            <ul class="dropdown-menu">
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/cookie-og-privatlivspolitik/" title="Cookie og privatlivspolitik">Cookie og privatlivspolitik</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/henvisning/" title="Henvisning">Henvisning</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Patientvejledninger">Patientvejledninger</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/blokadeanlaeggelse/" title="Blokadeanl&#230;ggelse">Blokadeanl&#230;ggelse</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/dupuytren-s-kontraktur/" title="Dupuytren’s kontraktur">Dupuytren’s kontraktur</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/ganglion/" title="Ganglion">Ganglion</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/golfalbue/" title="Golfalbue">Golfalbue</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/haelspore-syndromet/" title="H&#230;lspore-syndromet">H&#230;lspore-syndromet</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/karpaltunnelsyndrom/" title="Karpaltunnelsyndrom">Karpaltunnelsyndrom</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/mortons-neurom/" title="Mortons Neurom">Mortons Neurom</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/nedgroet-negl/" title="Nedgroet negl">Nedgroet negl</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/" title="Seneskedebet&#230;ndelse ved tommelfingeren">Seneskedebet&#230;ndelse ved tommelfingeren</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/springfinger/" title="Springfinger">Springfinger</a></li>
+                          		                	    <li><a tabindex="-1" href="/patientvejledninger/tennisalbue/" title="Tennisalbue">Tennisalbue</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/om-klinikken/" title="Om klinikken">Om klinikken</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/kontakt/" title="Kontakt">Kontakt</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/ansatte/" title="Ansatte">Ansatte</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Operationer">Operationer</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/areknuder/" title="&#197;reknuder">&#197;reknuder</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/" title="Kn&#230;">Kn&#230;</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/" title="Fod">Fod</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/" title="Hand">Hand</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/gigtlidelser/" title="Gigtlidelser">Gigtlidelser</a></li>
+                                            </ul>
+                          		    </li>
+                        </ul>
+      		        </div>
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="/henvisning/" title="Henvisning">Henvisning</a>
+      		    
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="#" title="Patientvejledninger">Patientvejledninger</a>
+      		    
+      		        <div class="dropdown clearfix">
+      		            <ul class="dropdown-menu">
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/blokadeanlaeggelse/" title="Blokadeanl&#230;ggelse">Blokadeanl&#230;ggelse</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/dupuytren-s-kontraktur/" title="Dupuytren’s kontraktur">Dupuytren’s kontraktur</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/ganglion/" title="Ganglion">Ganglion</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/golfalbue/" title="Golfalbue">Golfalbue</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/haelspore-syndromet/" title="H&#230;lspore-syndromet">H&#230;lspore-syndromet</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/karpaltunnelsyndrom/" title="Karpaltunnelsyndrom">Karpaltunnelsyndrom</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/mortons-neurom/" title="Mortons Neurom">Mortons Neurom</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/nedgroet-negl/" title="Nedgroet negl">Nedgroet negl</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/" title="Seneskedebet&#230;ndelse ved tommelfingeren">Seneskedebet&#230;ndelse ved tommelfingeren</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/springfinger/" title="Springfinger">Springfinger</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/patientvejledninger/tennisalbue/" title="Tennisalbue">Tennisalbue</a>
+      		                	    
+      		                	 
+                          		    </li>
+                        </ul>
+      		        </div>
+      		</li>
+      		<li class="active">
+      		    
+      		        <a href="/ansatte/" title="Ansatte">Ansatte</a>
+      		    
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="#" title="Operationer">Operationer</a>
+      		    
+      		        <div class="dropdown clearfix">
+      		            <ul class="dropdown-menu">
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/operationer/areknuder/" title="&#197;reknuder">&#197;reknuder</a>
+      		                	    
+      		                	 
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/operationer/knae/" title="Kn&#230;">Kn&#230;</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/knaeskalssmerter/" title="Kn&#230;skalssmerter">Kn&#230;skalssmerter</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/springerknae/" title="Springerkn&#230;">Springerkn&#230;</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/runner-knee/" title="Runner knee">Runner knee</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/bakers-cyste/" title="Bakers Cyste">Bakers Cyste</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/osgood-schlatter/" title="Osgood-Schlatter">Osgood-Schlatter</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/knaeledsmus/" title="Kn&#230;ledsmus">Kn&#230;ledsmus</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/artroskopi/" title="Artroskopi">Artroskopi</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/slimsaek-ved-knaeskallen/" title="Slims&#230;k ved kn&#230;skallen">Slims&#230;k ved kn&#230;skallen</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/knae/skinnebensbetaendelse/" title="Skinnebensbet&#230;ndelse">Skinnebensbet&#230;ndelse</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Fod">Fod</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/knyst/" title="Knyst">Knyst</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/haelsmerte/" title="H&#230;lsmerte">H&#230;lsmerte</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/mortons-neuom/" title="Mortons neuom">Mortons neuom</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/ligtorn/" title="Ligtorn">Ligtorn</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/hammerta/" title="Hammert&#229;">Hammert&#229;</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/fodvorter/" title="Fodvorter">Fodvorter</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/ungvis-incarnatus/" title="Ungvis incarnatus">Ungvis incarnatus</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/skraedderknyst/" title="Skr&#230;dderknyst">Skr&#230;dderknyst</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/pedis-plani/" title="Pedis plani">Pedis plani</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/fod/transversoplani/" title="Transversoplani">Transversoplani</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="#" title="Hand">Hand</a>
+      		                	    
+      		                	 
+                          		            <ul class="dropdown-menu">
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/mb-dequervain/" title="Mb.deQuervain">Mb.deQuervain</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/carpal-tunnel-syndrom/" title="Carpal Tunnel Syndrom">Carpal Tunnel Syndrom</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/seneknude/" title="Seneknude">Seneknude</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/slidgigt-i-tommelfingeren/" title="Slidgigt i tommelfingeren">Slidgigt i tommelfingeren</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/springfinger/" title="Springfinger">Springfinger</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/golfalbue/" title="Golfalbue">Golfalbue</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/dupuytrens-contractur/" title="Dupuytrens Contractur">Dupuytrens Contractur</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/leddegigtskirurgi/" title="Leddegigtskirurgi">Leddegigtskirurgi</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/tennisalbue/" title="Tennisalbue">Tennisalbue</a></li>
+                          		                	    <li><a tabindex="-1" href="/operationer/hand/slidgigt-i-fingerled/" title="Slidgigt i fingerled">Slidgigt i fingerled</a></li>
+                                            </ul>
+                          		    </li>
+      		                	 <li class="dropdown-submenu">
+      		                	     
+                              		        <a tabindex="-1" href="/operationer/gigtlidelser/" title="Gigtlidelser">Gigtlidelser</a>
+      		                	    
+      		                	 
+                          		    </li>
+                        </ul>
+      		        </div>
+      		</li>
+      		<li class="">
+      		    
+      		        <a href="/kontakt/" title="Kontakt">Kontakt</a>
+      		    
+      		</li>
+      </ul>
+      
+      <div id="searchDiv">
+          <input type="text" name="searchString" placeholder="S&#248;g...">
+          <button>Go</button>
+          <div class="quick"></div>
+      </div>
+      
+      </section>
+      </section>
+      </nav>
+      
+      
+      
+      
+      <section id="slider" class="static">
+      </section>
+      
+      <section id="main" class="normalPage">
+          <section class="row center">
+              <section class="span25 main-wrapper">
+                  <div class="title span9">
+                      <h1 class="span8">Klinikkens ansatte</h1>
+                      <h2 class="span8">L&#230;s om deres baggrund</h2>
+                  </div>
+                  <div class="cornerShadow left"></div>
+                  <div class="cornerShadow right"></div>
+                  <section class="content span24">
+                      <section class="top">
+                          <h2>Vores L&#230;ge</h2>
+                          <p><span>Læs om lægens baggrund</span></p>
+                      </section>
+                      <ul class="doctors list">
+                  <li>
+                          <a href="/media/wbbd4cdp/jan-beck-mikkelsen.jpg" data-colorbox="1" class="cboxElement">
+                              <figure>
+                                  <img src="/media/wbbd4cdp/jan-beck-mikkelsen.jpg" alt="Jan Beck Mikkelsen">
+                                  <div class="overlay"></div>
+                              </figure>
+                          </a>
+          
+      
+      
+                      <div class="info">
+                          <h1>Jan Beck Mikkelsen, Overl&#230;ge</h1>
+                          <h3>Speciall&#230;ge i ortop&#230;dkirurgi</h3>
+                          <p>Jan Beck Mikkelsen har v&#230;ret speciall&#230;ge i Ortop&#230;dkirurgi siden 1997, og har fungeret som overl&#230;ge p&#229; Ortop&#230;dkirurgisk afdeling, Kolding sygehus fra 2002 -11 og v&#230;ret praktiserende speciall&#230;ge fra 2008.</p>
+                              <a href="/ansatte/jan-beck-mikkelsen/" title="Jan Beck Mikkelsen" class="customButton smallRadius">Læs mere om Jan Beck Mikkelsen.</a>
+                          
+                      </div>
+                  </li>
+          </ul>
+      
+                      <section class="top">
+                          <h2>Andre fuldtidsansatte</h2>
+                          <p><span>Læs kort om klinikkens andre ansatte.</span></p>
+                      </section>
+                      <ul class="doctors list">
+                  <li>
+                          <a href="/media/kukdlhvf/helle-kaj-hansen.jpg" data-colorbox="1" class="cboxElement">
+                              <figure>
+                                  <img src="/media/kukdlhvf/helle-kaj-hansen.jpg" alt="Helle Kaj Hansen">
+                                  <div class="overlay"></div>
+                              </figure>
+                          </a>
+          
+      
+      
+                      <div class="info">
+                          <h1>Helle Kaj Hansen, Sygeplejerske</h1>
+                          <h3></h3>
+                          <p></p>
+                          
+                      </div>
+                  </li>
+                  <li>
+                          <a href="/media/l4bgk4bn/lene-petersen.jpg" data-colorbox="1" class="cboxElement">
+                              <figure>
+                                  <img src="/media/l4bgk4bn/lene-petersen.jpg" alt="Lene Petersen">
+                                  <div class="overlay"></div>
+                              </figure>
+                          </a>
+          
+      
+      
+                      <div class="info">
+                          <h1>Lene Petersen, Sekret&#230;r</h1>
+                          <h3></h3>
+                          <p>Lene vil som regel v&#230;re din f&#248;rste kontakt til klinikken.</p>
+                          
+                      </div>
+                  </li>
+          </ul>
+                  </section>
+              </section>
+          </section>
+      </section>
+      
+      
+      <footer>
+          <section class="row center">
+              <section class="span25">
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Hurtig-Links</h2>
+                      <ul>
+                              <li>
+                                  <a href="/">
+                                      <i></i>Forside</a>
+                              </li>
+                              <li>
+                                  <a href="/henvisning/">
+                                      <i></i>Henvisning</a>
+                              </li>
+                              <li>
+                                  <a href="/ansatte/">
+                                      <i></i>Ansatte</a>
+                              </li>
+                              <li>
+                                  <a href="/kontakt/">
+                                      <i></i>Kontakt</a>
+                              </li>
+                              <li>
+                                  <a href="/cookie-og-privatlivspolitik/">
+                                      <i></i>Cookie og privatlivspolitik</a>
+                              </li>
+                      </ul>
+      
+                      <a href="https://www.ikas.dk/den-danske-kvalitetsmodel/" target="_blank">
+                          <img src="/media/anrin1h4/ddkm_akkrediteret.png" alt="Ddkm Akkrediteret">
+                      </a>
+                  </section>
+      
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Patientvejledninger</h2>
+                      <ul>
+                              <li>
+                                  <a href="/patientvejledninger/blokadeanlaeggelse/" title="Blokadeanl&#230;ggelse">
+                                      <i></i>Blokadeanl&#230;ggelse</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/dupuytren-s-kontraktur/" title="Dupuytren’s kontraktur">
+                                      <i></i>Dupuytren’s kontraktur</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/ganglion/" title="Ganglion">
+                                      <i></i>Ganglion</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/golfalbue/" title="Golfalbue">
+                                      <i></i>Golfalbue</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/haelspore-syndromet/" title="H&#230;lspore-syndromet">
+                                      <i></i>H&#230;lspore-syndromet</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/karpaltunnelsyndrom/" title="Karpaltunnelsyndrom">
+                                      <i></i>Karpaltunnelsyndrom</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/mortons-neurom/" title="Mortons Neurom">
+                                      <i></i>Mortons Neurom</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/nedgroet-negl/" title="Nedgroet negl">
+                                      <i></i>Nedgroet negl</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/seneskedebetaendelse-ved-tommelfingeren/" title="Seneskedebet&#230;ndelse ved tommelfingeren">
+                                      <i></i>Seneskedebet&#230;ndelse ved tommelfingeren</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/springfinger/" title="Springfinger">
+                                      <i></i>Springfinger</a>
+                              </li>
+                              <li>
+                                  <a href="/patientvejledninger/tennisalbue/" title="Tennisalbue">
+                                      <i></i>Tennisalbue</a>
+                              </li>
+                      </ul>
+                  </section>
+      
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Ekstra Information</h2>
+                      <h3>Lokalisationsnummer</h3>
+      
+                      <ul>
+                          <li>
+                              <i></i>5790000134205</li>
+                      </ul>
+                      <h3 style="padding-top: 10px;">Ydernummer</h3>
+                      <ul>
+                          <li>
+                              <i></i>244333</li>
+                      </ul>
+      
+                      <h3 style="padding-top: 10px;">Dokumenter</h3>
+                      <ul>
+                              <li>
+                                  <a target="_blank" href="/media/fvihs4gd/tilsynsrapport-2014.pdf" title="Tilsynsrapport">
+                                      <i></i>Tilsynsrapport</a>
+                              </li>
+                              <li>
+                                  <a target="_blank" href="/media/hwfgwgl5/behanding_af_personoplysninger.pdf" title="Behanding Af Personoplysninger">
+                                      <i></i>Behanding Af Personoplysninger</a>
+                              </li>
+                      </ul>
+      
+                  </section>
+                  <section class="span6 footerBox">
+                      <h2 class="customButton smallRadius">Hurtig-kontakt</h2>
+                      <h3>Kontakt os via email</h3>
+      
+      
+                      <div id="umbraco_form_f1dc0db0565945a792073cf6183e8255" class="umbraco-forms-form contantform umbraco-forms-FooterContact">
+      
+      
+      
+              
+          </div>
+      
+                      <script>
+                          $("#quickContactForm").submit(function() {
+                              var $this = $(this);
+                              var $submit = $this.find("input[type=submit]");
+                              var $message = $this.find("#successMessage");
+      
+                              if ($this.valid()) {
+                                  $submit.prop("disabled", true);
+                                  $message.show();
+                                  setTimeout(function() {
+                                          $submit.prop("disabled", false);
+                                          $message.hide();
+                                      },
+                                      10000);
+      
+                                  return true;
+                              }
+      
+      
+                              return false;
+                          });
+      
+                      </script>
+                  </section>
+              </section>
+          </section>
+      </footer>
+      <section id="copyright">
+          <section class="row center">
+              <section class="span25">
+                  <p></p>
+              </section>
+          </section>
+      </section>
+      <script>
+          if (document.body.offsetWidth < 400) {
+              viewport = document.querySelector("meta[name=viewport]");
+              viewport.setAttribute('content',
+                  'width=device-width; minimum-scale=0.75, initial-scale=0.75; maximum-scale=0.75; user-scalable=0;');
+          }
+      
+          if (jQuery.cookie('cc_cookie_decline') == "cc_cookie_decline") {
+              // do nothing
+          } else {
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', 'UA-7864632-1']);
+              _gaq.push(['_trackPageview']);
+      
+              (function() {
+                  var ga = document.createElement('script');
+                  ga.type = 'text/javascript';
+                  ga.async = true;
+                  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') +
+                      '.google-analytics.com/ga.js';
+                  var s = document.getElementsByTagName('script')[0];
+                  s.parentNode.insertBefore(ga, s);
+              })();
+          }
+      
+      
+      </script>
+      
+      <script type="text/javascript">
+          var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+          document.write(unescape("%3Cscript src='" +
+              gaJsHost +
+              "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type="text/javascript">
+          try {
+              var pageTracker = _gat._getTracker("UA-7864632-1");
+              pageTracker._trackPageview();
+          } catch (err) {
+          }
+      
+          $.cookieCuttr({
+              cookieMessage:
+                  'Websitet anvender cookies til at huske dine indstillinger og statistik. L&#230;s mere om vores <a href="{{cookiePolicyLink}}" title="Cookie og privatlivspolitik">Cookie og privatlivspolitik</a>.',
+              cookiePolicyLink: '/cookie-og-privatlivspolitik/',
+              cookieAcceptButtonText: 'Accepter og skjul denne besked.',
+              cookieDeclineButton: false,
+              cookieNotificationLocationBottom: true,
+              cookieAnalytics: false
+          });
+      </script>
+      
+      
+      
+      <script type="application/javascript">
+          if (typeof umbracoFormsCollection === 'undefined') var umbracoFormsCollection = [];
+          umbracoFormsCollection.push("%7B%22formId%22:%22f1dc0db0565945a792073cf6183e8255%22,%22fieldSetConditions%22:%7B%7D,%22fieldConditions%22:%7B%7D,%22recordValues%22:%7B%7D%7D");
+      </script>
+      
+      
+      <script type='application/javascript' src='/App_Plugins/UmbracoForms/Assets/Themes/Default/umbracoforms.js' defer='defer' type='application/javascript'></script><link rel='stylesheet' href='/app_plugins/umbracoforms/assets/defaultform.css'>
+      </body>
+      </html> but they are still different

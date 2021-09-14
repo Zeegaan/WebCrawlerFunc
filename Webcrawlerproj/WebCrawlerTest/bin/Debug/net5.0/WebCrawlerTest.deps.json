@@ -42,6 +42,17 @@
         }
       },
       "coverlet.collector/3.0.2": {},
+      "Fastenshtein/1.0.0.7": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Fastenshtein.dll": {
+            "assemblyVersion": "1.0.0.7",
+            "fileVersion": "1.0.0.7"
+          }
+        }
+      },
       "HtmlAgilityPack/1.11.36": {
         "runtime": {
           "lib/netstandard2.0/HtmlAgilityPack.dll": {
@@ -1066,6 +1077,7 @@
       },
       "WebCrawler/1.0.0": {
         "dependencies": {
+          "Fastenshtein": "1.0.0.7",
           "HtmlAgilityPack": "1.11.36",
           "Microsoft.Extensions.Logging.Abstractions": "5.0.0"
         },
@@ -1094,6 +1106,13 @@
       "sha512": "sha512-iBvPAIDaI7j/iMx/DzCGCJ3rdiOmel9VINEfaTiBv/NKIGHOP4X3hqc6Q1wgMtArEshlhXexQknP17SK4vXb1w==",
       "path": "coverlet.collector/3.0.2",
       "hashPath": "coverlet.collector.3.0.2.nupkg.sha512"
+    },
+    "Fastenshtein/1.0.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2nNwoljdTSzCLxFCjQdZBhfTUpkst3wFMRFEHKxWtfirxunjTmcsFsW3iXqpw+TkDtSWexCipsEJiJ9I6POBxg==",
+      "path": "fastenshtein/1.0.0.7",
+      "hashPath": "fastenshtein.1.0.0.7.nupkg.sha512"
     },
     "HtmlAgilityPack/1.11.36": {
       "type": "package",

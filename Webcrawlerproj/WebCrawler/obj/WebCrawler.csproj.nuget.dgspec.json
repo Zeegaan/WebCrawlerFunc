@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj": {}
+    "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj": {
+    "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj",
+        "projectUniqueName": "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj",
         "projectName": "WebCrawler",
-        "projectPath": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj",
-        "packagesPath": "C:\\Users\\Umbraco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\obj\\",
+        "projectPath": "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj",
+        "packagesPath": "C:\\Users\\ng1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Umbraco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ng1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Fastenshtein": {
+              "target": "Package",
+              "version": "[1.0.0.7, )"
+            },
             "HtmlAgilityPack": {
               "target": "Package",
               "version": "[1.11.36, )"
@@ -64,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawler\\WebCrawlerTest\\WebCrawlerTest.csproj": {}
+    "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawlerTest\\WebCrawlerTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawler\\WebCrawlerTest\\WebCrawlerTest.csproj": {
+    "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawlerTest\\WebCrawlerTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawler\\WebCrawlerTest\\WebCrawlerTest.csproj",
+        "projectUniqueName": "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawlerTest\\WebCrawlerTest.csproj",
         "projectName": "WebCrawlerTest",
-        "projectPath": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawler\\WebCrawlerTest\\WebCrawlerTest.csproj",
-        "packagesPath": "C:\\Users\\Umbraco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawler\\WebCrawlerTest\\obj\\",
+        "projectPath": "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawlerTest\\WebCrawlerTest.csproj",
+        "packagesPath": "C:\\Users\\ng1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawlerTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Umbraco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ng1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawler\\WebCrawler\\WebCrawler.csproj": {
-                "projectPath": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawler\\WebCrawler\\WebCrawler.csproj"
+              "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj": {
+                "projectPath": "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj"
               }
             }
           }
@@ -88,21 +88,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawler\\WebCrawler\\WebCrawler.csproj": {
+    "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawler\\WebCrawler\\WebCrawler.csproj",
+        "projectUniqueName": "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj",
         "projectName": "WebCrawler",
-        "projectPath": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawler\\WebCrawler\\WebCrawler.csproj",
-        "packagesPath": "C:\\Users\\Umbraco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Umbraco\\Documents\\GitHub\\WebCrawler\\WebCrawler\\obj\\",
+        "projectPath": "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\WebCrawler.csproj",
+        "packagesPath": "C:\\Users\\ng1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ng1\\Documents\\GitHub\\WebCrawlerFunc\\Webcrawlerproj\\WebCrawler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Umbraco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ng1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -128,6 +128,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Fastenshtein": {
+              "target": "Package",
+              "version": "[1.0.0.7, )"
+            },
             "HtmlAgilityPack": {
               "target": "Package",
               "version": "[1.11.36, )"
@@ -152,7 +156,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
